@@ -41,5 +41,16 @@ df <- df %>%
   left_join(concelhos, by = c("DICO" = "INE"))
 
 write_csv(df, "rcm_d0.csv")
+# === Criar JSON de metadados com a data/hora atual ===
+ultima_atualizacao <- format(Sys.time(), "%Hh%M de %d/%m/%Y")
+
+metadata_rcm <- list(
+  annotate = list(
+    notes = paste0("Última atualização às ", ultima_atualizacao)
+  )
+)
+
+write_json(metadata_rcm, "metadata_rcm.json", pretty = TRUE, auto_unbox = TRUE)
+cat("✅ metadata_rcm.json criado com sucesso!\n")
 
 
