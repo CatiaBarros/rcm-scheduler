@@ -42,7 +42,13 @@ df <- df %>%
 
 write_csv(df, "rcm_d0.csv")
 # === Criar JSON de metadados com a data/hora atual ===
-ultima_atualizacao <- format(Sys.time(), "%Hh%M de %d/%m/%Y")
+library(lubridate)
+
+ultima_atualizacao <- format(
+  with_tz(Sys.time(), tzone = "Europe/Lisbon"),
+  "%Hh%M de %d/%m/%Y"
+)
+
 
 metadata_rcm <- list(
   annotate = list(
