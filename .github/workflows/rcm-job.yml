@@ -2,7 +2,7 @@ name: RCM Job (00h e 12h de Portugal)
 
 on:
   schedule:
-  - cron: '0 0,11 * * *'   # Corre às 01h e 12h de Portugal
+    - cron: '0 0,11 * * *'   # Corre às 01h e 12h de Portugal (UTC)
   workflow_dispatch:          # Permite execução manual
 
 jobs:
@@ -25,25 +25,25 @@ jobs:
     - name: Executar script R
       run: Rscript script.R
 
-    - name: Upload do CSV como artifact (opcional)
+    - name: Upload dos resultados como artifacts (opcional)
       uses: actions/upload-artifact@v4
       with:
-        name: rcm_output
-        path: rcm_d0.csv
+        name: rcm_outputs
+        path: |
+          rcm_d0.csv
+          metadata_rcm.json
 
     - name: Configurar Git para commit automático
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Commit e push do CSV se houver alterações
+    - name: Commit e push se houver alterações
       run: |
-        if [ -f "rcm_d0.csv" ]; then
-          git add rcm_d0.csv
-          git diff --cached --quiet rcm_d0.csv || (
-            git commit -m "Atualização automática do rcm_d0.csv [$(date '+%Y-%m-%d %H:%M')]"
-            git push origin main
-          )
-        fi
+        git add rcm_d0.csv metadata_rcm.json
+        git diff --cached --quiet rcm_d0.csv metadata_rcm.json || (
+          git commit -m "Atualização automática dos dados RCM [$(date '+%Y-%m-%d %H:%M')]"
+          git push origin main
+        )
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
