@@ -1,23 +1,23 @@
 DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0101,Muito Elevado,40.58,-8.44,Águeda,AVEIRO
 0102,Elevado,40.6909,-8.4784,Albergaria-a-Velha,AVEIRO
-0103,Muito Elevado,40.44,-8.44,Anadia,AVEIRO
-0104,Máximo,40.93,-8.26,Arouca,AVEIRO
+0103,Elevado,40.44,-8.44,Anadia,AVEIRO
+0104,Muito Elevado,40.93,-8.26,Arouca,AVEIRO
 0105,Reduzido,40.6413,-8.6535,Aveiro,AVEIRO
 0106,Muito Elevado,41.0409,-8.2707,Castelo de Paiva,AVEIRO
 0107,Moderado,41.01,-8.64,Espinho,AVEIRO
 0108,Moderado,40.754,-8.572,Estarreja,AVEIRO
 0109,Elevado,40.93,-8.55,Santa Maria da Feira,AVEIRO
-0110,Reduzido,40.6,-8.67,Ílhavo,AVEIRO
-0111,Muito Elevado,40.3783,-8.4503,Mealhada,AVEIRO
+0110,Moderado,40.6,-8.67,Ílhavo,AVEIRO
+0111,Elevado,40.3783,-8.4503,Mealhada,AVEIRO
 0112,Moderado,40.74,-8.64,Murtosa,AVEIRO
 0113,Muito Elevado,40.84,-8.48,Oliveira de Azeméis,AVEIRO
 0114,Moderado,40.5157,-8.4941,Oliveira do Bairro,AVEIRO
 0115,Moderado,40.8596,-8.6254,Ovar,AVEIRO
 0116,Moderado,40.9,-8.49,São João da Madeira,AVEIRO
-0117,Máximo,40.7334,-8.3713,Sever do Vouga,AVEIRO
+0117,Muito Elevado,40.7334,-8.3713,Sever do Vouga,AVEIRO
 0118,Elevado,40.5535,-8.6833,Vagos,AVEIRO
-0119,Máximo,40.85,-8.39,Vale de Cambra,AVEIRO
+0119,Muito Elevado,40.85,-8.39,Vale de Cambra,AVEIRO
 0201,Elevado,37.88,-8.17,Aljustrel,BEJA
 0202,Máximo,37.5108,-8.056,Almodôvar,BEJA
 0203,Elevado,38.26,-8,Alvito,BEJA
@@ -32,18 +32,18 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0212,Muito Elevado,37.65,-8.22,Ourique,BEJA
 0213,Elevado,37.95,-7.6,Serpa,BEJA
 0214,Elevado,38.21,-7.8,Vidigueira,BEJA
-0301,Muito Elevado,41.54,-8.61,Amares,BRAGA
+0301,Elevado,41.54,-8.61,Amares,BRAGA
 0302,Moderado,41.6314,-8.3489,Barcelos,BRAGA
 0303,Muito Elevado,41.5475,-8.4227,Braga,BRAGA
 0304,Máximo,41.514,-7.9901,Cabeceiras de Basto,BRAGA
-0305,Máximo,41.39,-8,Celorico de Basto,BRAGA
+0305,Muito Elevado,41.39,-8,Celorico de Basto,BRAGA
 0306,Reduzido,41.5356,-8.7819,Esposende,BRAGA
-0307,Máximo,41.4472,-8.1732,Fafe,BRAGA
+0307,Muito Elevado,41.4472,-8.1732,Fafe,BRAGA
 0308,Muito Elevado,41.4434,-8.2938,Guimarães,BRAGA
 0309,Muito Elevado,41.5762,-8.2708,Póvoa de Lanhoso,BRAGA
-0310,Máximo,41.72,-8.31,Terras de Bouro,BRAGA
+0310,Muito Elevado,41.72,-8.31,Terras de Bouro,BRAGA
 0311,Máximo,41.6355,-8.1416,Vieira do Minho,BRAGA
-0312,Elevado,41.4087,-8.5205,Vila Nova de Famalicão,BRAGA
+0312,Moderado,41.4087,-8.5205,Vila Nova de Famalicão,BRAGA
 0313,Muito Elevado,41.6545,-8.4348,Vila Verde,BRAGA
 0314,Elevado,41.38,-8.31,Vizela,BRAGA
 0401,Máximo,41.3424,-6.9625,Alfândega da Fé,BRAGANÇA
@@ -52,7 +52,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0404,Máximo,41.09,-6.81,Freixo de Espada à Cinta,BRAGANÇA
 0405,Máximo,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
 0406,Máximo,41.5,-6.27,Miranda do Douro,BRAGANÇA
-0407,Máximo,41.4823,-7.1812,Mirandela,BRAGANÇA
+0407,Muito Elevado,41.4823,-7.1812,Mirandela,BRAGANÇA
 0408,Máximo,41.3421,-6.7115,Mogadouro,BRAGANÇA
 0409,Máximo,41.1742,-7.0532,Torre de Moncorvo,BRAGANÇA
 0410,Máximo,41.3083,-7.1519,Vila Flor,BRAGANÇA
@@ -69,23 +69,23 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0509,Máximo,39.8007,-8.0979,Sertã,CASTELO BRANCO
 0510,Máximo,39.6753,-8.144,Vila de Rei,CASTELO BRANCO
 0511,Máximo,39.6571,-7.6705,Vila Velha de Ródão,CASTELO BRANCO
-0601,Máximo,40.22,-8.05,Arganil,COIMBRA
+0601,Muito Elevado,40.22,-8.05,Arganil,COIMBRA
 0602,Elevado,40.3466,-8.5943,Cantanhede,COIMBRA
 0603,Muito Elevado,40.2081,-8.4194,Coimbra,COIMBRA
-0604,Muito Elevado,40.1097,-8.5027,Condeixa-a-Nova,COIMBRA
-0605,Elevado,40.1512,-8.8558,Figueira da Foz,COIMBRA
-0606,Máximo,40.15,-8.11,Góis,COIMBRA
-0607,Máximo,40.112,-8.2469,Lousã,COIMBRA
+0604,Elevado,40.1097,-8.5027,Condeixa-a-Nova,COIMBRA
+0605,Muito Elevado,40.1512,-8.8558,Figueira da Foz,COIMBRA
+0606,Muito Elevado,40.15,-8.11,Góis,COIMBRA
+0607,Muito Elevado,40.112,-8.2469,Lousã,COIMBRA
 0608,Elevado,40.4275,-8.7369,Mira,COIMBRA
-0609,Máximo,40.0915,-8.3309,Miranda do Corvo,COIMBRA
+0609,Muito Elevado,40.0915,-8.3309,Miranda do Corvo,COIMBRA
 0610,Moderado,40.1775,-8.6803,Montemor-o-Velho,COIMBRA
-0611,Máximo,40.36,-7.86,Oliveira do Hospital,COIMBRA
-0612,Máximo,40.15,-7.93,Pampilhosa da Serra,COIMBRA
-0613,Máximo,40.27,-8.27,Penacova,COIMBRA
-0614,Máximo,40.03,-8.39,Penela,COIMBRA
+0611,Muito Elevado,40.36,-7.86,Oliveira do Hospital,COIMBRA
+0612,Muito Elevado,40.15,-7.93,Pampilhosa da Serra,COIMBRA
+0613,Muito Elevado,40.27,-8.27,Penacova,COIMBRA
+0614,Muito Elevado,40.03,-8.39,Penela,COIMBRA
 0615,Muito Elevado,40.06,-8.61,Soure,COIMBRA
-0616,Máximo,40.36,-8.02,Tábua,COIMBRA
-0617,Máximo,40.2099,-8.2586,Vila Nova de Poiares,COIMBRA
+0616,Muito Elevado,40.36,-8.02,Tábua,COIMBRA
+0617,Muito Elevado,40.2099,-8.2586,Vila Nova de Poiares,COIMBRA
 0701,Elevado,38.7,-7.4,Alandroal,ÉVORA
 0702,Elevado,38.72,-7.99,Arraiolos,ÉVORA
 0703,Elevado,38.8056,-7.4554,Borba,ÉVORA
@@ -101,9 +101,9 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0713,Elevado,38.3375,-8.0019,Viana do Alentejo,ÉVORA
 0714,Elevado,38.7747,-7.4204,Vila Viçosa,ÉVORA
 0801,Elevado,37.0897,-8.2472,Albufeira,FARO
-0802,Muito Elevado,37.47,-7.48,Alcoutim,FARO
+0802,Máximo,37.47,-7.48,Alcoutim,FARO
 0803,Muito Elevado,37.3169,-8.8028,Aljezur,FARO
-0804,Muito Elevado,37.2198,-7.4445,Castro Marim,FARO
+0804,Máximo,37.2198,-7.4445,Castro Marim,FARO
 0805,Elevado,37.0146,-7.9331,Faro,FARO
 0806,Muito Elevado,37.1352,-8.455,Lagoa,FARO
 0807,Máximo,37.1039,-8.6765,Lagos,FARO
@@ -114,7 +114,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0812,Máximo,37.15,-7.89,São Brás de Alportel,FARO
 0813,Máximo,37.19,-8.44,Silves,FARO
 0814,Máximo,37.13,-7.65,Tavira,FARO
-0815,Máximo,37.0828,-8.9103,Vila do Bispo,FARO
+0815,Muito Elevado,37.0828,-8.9103,Vila do Bispo,FARO
 0816,Muito Elevado,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Máximo,40.82,-7.54,Aguiar da Beira,GUARDA
 0902,Máximo,40.72,-6.91,Almeida,GUARDA
@@ -123,44 +123,44 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0905,Máximo,40.6201,-7.5393,Fornos de Algodres,GUARDA
 0906,Máximo,40.4921,-7.5937,Gouveia,GUARDA
 0907,Máximo,40.5379,-7.2647,Guarda,GUARDA
-0908,Máximo,40.4,-7.54,Manteigas,GUARDA
+0908,Elevado,40.4,-7.54,Manteigas,GUARDA
 0909,Máximo,40.97,-7.26,Mêda,GUARDA
 0910,Máximo,40.7716,-7.0678,Pinhel,GUARDA
 0911,Máximo,40.3519,-7.0898,Sabugal,GUARDA
-0912,Máximo,40.4143,-7.71,Seia,GUARDA
+0912,Muito Elevado,40.4143,-7.71,Seia,GUARDA
 0913,Máximo,40.78,-7.35,Trancoso,GUARDA
 0914,Máximo,41.0818,-7.1433,Vila Nova de Foz Côa,GUARDA
 1001,Elevado,39.55,-8.97,Alcobaça,LEIRIA
-1002,Máximo,39.8222,-8.3814,Alvaiázere,LEIRIA
-1003,Muito Elevado,39.9131,-8.4378,Ansião,LEIRIA
+1002,Muito Elevado,39.8222,-8.3814,Alvaiázere,LEIRIA
+1003,Elevado,39.9131,-8.4378,Ansião,LEIRIA
 1004,Muito Elevado,39.6605,-8.8228,Batalha,LEIRIA
 1005,Moderado,39.27,-9.16,Bombarral,LEIRIA
 1006,Elevado,39.4067,-9.1405,Caldas da Rainha,LEIRIA
-1007,Máximo,40.01,-8.21,Castanheira de Pêra,LEIRIA
-1008,Máximo,39.9,-8.27,Figueiró dos Vinhos,LEIRIA
+1007,Muito Elevado,40.01,-8.21,Castanheira de Pêra,LEIRIA
+1008,Muito Elevado,39.9,-8.27,Figueiró dos Vinhos,LEIRIA
 1009,Elevado,39.7473,-8.8069,Leiria,LEIRIA
 1010,Muito Elevado,39.75,-8.93,Marinha Grande,LEIRIA
 1011,Moderado,39.6,-9.07,Nazaré,LEIRIA
 1012,Moderado,39.36,-9.16,Óbidos,LEIRIA
-1013,Máximo,39.92,-8.15,Pedrógão Grande,LEIRIA
+1013,Muito Elevado,39.92,-8.15,Pedrógão Grande,LEIRIA
 1014,Moderado,39.3617,-9.3893,Peniche,LEIRIA
 1015,Muito Elevado,39.92,-8.63,Pombal,LEIRIA
 1016,Muito Elevado,39.6001,-8.8169,Porto de Mós,LEIRIA
 1101,Moderado,39.0537,-9.0095,Alenquer,LISBOA
 1102,Elevado,38.9834,-9.0777,Arruda dos Vinhos,LISBOA
-1103,Elevado,39.0697,-8.8695,Azambuja,LISBOA
+1103,Moderado,39.0697,-8.8695,Azambuja,LISBOA
 1104,Elevado,39.25,-9.1,Cadaval,LISBOA
 1105,Elevado,38.6995,-9.4296,Cascais,LISBOA
 1106,Elevado,38.766,-9.1286,Lisboa,LISBOA
-1107,Muito Elevado,38.83,-9.17,Loures,LISBOA
+1107,Elevado,38.83,-9.17,Loures,LISBOA
 1108,Moderado,39.2426,-9.3126,Lourinhã,LISBOA
-1109,Muito Elevado,38.94,-9.33,Mafra,LISBOA
-1110,Elevado,38.7005,-9.3059,Oeiras,LISBOA
+1109,Elevado,38.94,-9.33,Mafra,LISBOA
+1110,Moderado,38.7005,-9.3059,Oeiras,LISBOA
 1111,Elevado,38.7973,-9.3904,Sintra,LISBOA
 1112,Elevado,39.02,-9.15,Sobral de Monte Agraço,LISBOA
 1113,Moderado,39.095,-9.261,Torres Vedras,LISBOA
 1114,Elevado,38.9541,-8.9899,Vila Franca de Xira,LISBOA
-1115,Elevado,38.7566,-9.2267,Amadora,LISBOA
+1115,Moderado,38.7566,-9.2267,Amadora,LISBOA
 1116,Elevado,38.79,-9.19,Odivelas,LISBOA
 1201,Elevado,39.2,-7.66,Alter do Chão,PORTALEGRE
 1202,Elevado,39.13,-7.29,Arronches,PORTALEGRE
@@ -177,17 +177,17 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1213,Elevado,39.25,-8.01,Ponte de Sor,PORTALEGRE
 1214,Máximo,39.29,-7.42,Portalegre,PORTALEGRE
 1215,Elevado,38.96,-7.67,Sousel,PORTALEGRE
-1301,Máximo,41.2697,-8.0795,Amarante,PORTO
+1301,Muito Elevado,41.2697,-8.0795,Amarante,PORTO
 1302,Máximo,41.1609,-8.0376,Baião,PORTO
-1303,Muito Elevado,41.37,-8.19,Felgueiras,PORTO
+1303,Elevado,41.37,-8.19,Felgueiras,PORTO
 1304,Muito Elevado,41.14,-8.5315,Gondomar,PORTO
 1305,Muito Elevado,41.2763,-8.2833,Lousada,PORTO
 1306,Moderado,41.2335,-8.6216,Maia,PORTO
-1307,Máximo,41.19,-8.15,Marco de Canaveses,PORTO
+1307,Muito Elevado,41.19,-8.15,Marco de Canaveses,PORTO
 1308,Moderado,41.1805,-8.681,Matosinhos,PORTO
 1309,Muito Elevado,41.28,-8.38,Paços de Ferreira,PORTO
 1310,Muito Elevado,41.21,-8.33,Paredes,PORTO
-1311,Máximo,41.2089,-8.2798,Penafiel,PORTO
+1311,Muito Elevado,41.2089,-8.2798,Penafiel,PORTO
 1312,Reduzido,41.158,-8.6294,Porto,PORTO
 1313,Reduzido,41.38,-8.76,Póvoa de Varzim,PORTO
 1314,Muito Elevado,41.3412,-8.4776,Santo Tirso,PORTO
@@ -215,30 +215,30 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1418,Máximo,39.6042,-8.4125,Tomar,SANTARÉM
 1419,Elevado,39.479,-8.539,Torres Novas,SANTARÉM
 1420,Máximo,39.46,-8.43,Vila Nova da Barquinha,SANTARÉM
-1421,Máximo,39.6568,-8.5788,Ourém,SANTARÉM
+1421,Muito Elevado,39.6568,-8.5788,Ourém,SANTARÉM
 1501,Elevado,38.3731,-8.5135,Alcácer do Sal,SETÚBAL
 1502,Elevado,38.7529,-8.9604,Alcochete,SETÚBAL
-1503,Elevado,38.6604,-9.1573,Almada,SETÚBAL
+1503,Moderado,38.6604,-9.1573,Almada,SETÚBAL
 1504,Elevado,38.6561,-9.061,Barreiro,SETÚBAL
 1505,Elevado,38.1756,-8.5651,Grândola,SETÚBAL
 1506,Elevado,38.651,-8.9927,Moita,SETÚBAL
 1507,Elevado,38.7043,-8.9755,Montijo,SETÚBAL
-1508,Elevado,38.5817,-8.8903,Palmela,SETÚBAL
+1508,Moderado,38.5817,-8.8903,Palmela,SETÚBAL
 1509,Elevado,38.0212,-8.7177,Santiago do Cacém,SETÚBAL
 1510,Elevado,38.633,-9.1085,Seixal,SETÚBAL
 1511,Elevado,38.4467,-9.1062,Sesimbra,SETÚBAL
-1512,Elevado,38.5246,-8.8856,Setúbal,SETÚBAL
+1512,Moderado,38.5246,-8.8856,Setúbal,SETÚBAL
 1513,Elevado,37.956,-8.8643,Sines,SETÚBAL
 1601,Muito Elevado,41.8458,-8.4177,Arcos de Valdevez,VIANA DO CASTELO
-1602,Muito Elevado,41.8718,-8.8533,Caminha,VIANA DO CASTELO
-1603,Máximo,42.1127,-8.2611,Melgaço,VIANA DO CASTELO
-1604,Muito Elevado,42.0709,-8.4923,Monção,VIANA DO CASTELO
-1605,Muito Elevado,41.9119,-8.5574,Paredes de Coura,VIANA DO CASTELO
+1602,Elevado,41.8718,-8.8533,Caminha,VIANA DO CASTELO
+1603,Muito Elevado,42.1127,-8.2611,Melgaço,VIANA DO CASTELO
+1604,Elevado,42.0709,-8.4923,Monção,VIANA DO CASTELO
+1605,Elevado,41.9119,-8.5574,Paredes de Coura,VIANA DO CASTELO
 1606,Muito Elevado,41.8044,-8.415,Ponte da Barca,VIANA DO CASTELO
 1607,Muito Elevado,41.7652,-8.5786,Ponte de Lima,VIANA DO CASTELO
 1608,Elevado,42.027,-8.6425,Valença,VIANA DO CASTELO
 1609,Elevado,41.6952,-8.8365,Viana do Castelo,VIANA DO CASTELO
-1610,Muito Elevado,41.9418,-8.7423,Vila Nova de Cerveira,VIANA DO CASTELO
+1610,Elevado,41.9418,-8.7423,Vila Nova de Cerveira,VIANA DO CASTELO
 1701,Máximo,41.2762,-7.4751,Alijó,VILA REAL
 1702,Máximo,41.6877,-7.6682,Boticas,VILA REAL
 1703,Máximo,41.742,-7.4721,Chaves,VILA REAL
@@ -273,7 +273,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1818,Máximo,40.8982,-7.4916,Sernancelhe,VISEU
 1819,Máximo,41.1154,-7.5674,Tabuaço,VISEU
 1820,Máximo,41.02,-7.77,Tarouca,VISEU
-1821,Máximo,40.52,-8.08,Tondela,VISEU
+1821,Muito Elevado,40.52,-8.08,Tondela,VISEU
 1822,Máximo,40.85,-7.73,Vila Nova de Paiva,VISEU
 1823,Máximo,40.6585,-7.912,Viseu,VISEU
 1824,Máximo,40.7249,-8.1135,Vouzela,VISEU
