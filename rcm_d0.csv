@@ -1,22 +1,22 @@
 DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
-0101,Máximo,40.58,-8.44,Águeda,AVEIRO
-0102,Muito Elevado,40.6909,-8.4784,Albergaria-a-Velha,AVEIRO
+0101,Muito Elevado,40.58,-8.44,Águeda,AVEIRO
+0102,Elevado,40.6909,-8.4784,Albergaria-a-Velha,AVEIRO
 0103,Muito Elevado,40.44,-8.44,Anadia,AVEIRO
 0104,Máximo,40.93,-8.26,Arouca,AVEIRO
 0105,Moderado,40.6413,-8.6535,Aveiro,AVEIRO
 0106,Máximo,41.0409,-8.2707,Castelo de Paiva,AVEIRO
 0107,Moderado,41.01,-8.64,Espinho,AVEIRO
 0108,Moderado,40.754,-8.572,Estarreja,AVEIRO
-0109,Muito Elevado,40.93,-8.55,Santa Maria da Feira,AVEIRO
+0109,Elevado,40.93,-8.55,Santa Maria da Feira,AVEIRO
 0110,Moderado,40.6,-8.67,Ílhavo,AVEIRO
 0111,Muito Elevado,40.3783,-8.4503,Mealhada,AVEIRO
 0112,Moderado,40.74,-8.64,Murtosa,AVEIRO
 0113,Muito Elevado,40.84,-8.48,Oliveira de Azeméis,AVEIRO
 0114,Moderado,40.5157,-8.4941,Oliveira do Bairro,AVEIRO
 0115,Moderado,40.8596,-8.6254,Ovar,AVEIRO
-0116,Elevado,40.9,-8.49,São João da Madeira,AVEIRO
+0116,Moderado,40.9,-8.49,São João da Madeira,AVEIRO
 0117,Máximo,40.7334,-8.3713,Sever do Vouga,AVEIRO
-0118,Muito Elevado,40.5535,-8.6833,Vagos,AVEIRO
+0118,Elevado,40.5535,-8.6833,Vagos,AVEIRO
 0119,Máximo,40.85,-8.39,Vale de Cambra,AVEIRO
 0201,Elevado,37.88,-8.17,Aljustrel,BEJA
 0202,Muito Elevado,37.5108,-8.056,Almodôvar,BEJA
@@ -26,7 +26,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0206,Elevado,38.07,-7.93,Castro Verde,BEJA
 0207,Elevado,38.17,-7.89,Cuba,BEJA
 0208,Elevado,38.06,-8.11,Ferreira do Alentejo,BEJA
-0209,Muito Elevado,37.6428,-7.6605,Mértola,BEJA
+0209,Elevado,37.6428,-7.6605,Mértola,BEJA
 0210,Elevado,38.14,-7.45,Moura,BEJA
 0211,Muito Elevado,37.5978,-8.639,Odemira,BEJA
 0212,Elevado,37.65,-8.22,Ourique,BEJA
@@ -70,13 +70,13 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0510,Máximo,39.6753,-8.144,Vila de Rei,CASTELO BRANCO
 0511,Máximo,39.6571,-7.6705,Vila Velha de Ródão,CASTELO BRANCO
 0601,Máximo,40.22,-8.05,Arganil,COIMBRA
-0602,Muito Elevado,40.3466,-8.5943,Cantanhede,COIMBRA
+0602,Elevado,40.3466,-8.5943,Cantanhede,COIMBRA
 0603,Muito Elevado,40.2081,-8.4194,Coimbra,COIMBRA
 0604,Muito Elevado,40.1097,-8.5027,Condeixa-a-Nova,COIMBRA
-0605,Muito Elevado,40.1512,-8.8558,Figueira da Foz,COIMBRA
+0605,Elevado,40.1512,-8.8558,Figueira da Foz,COIMBRA
 0606,Máximo,40.15,-8.11,Góis,COIMBRA
 0607,Máximo,40.112,-8.2469,Lousã,COIMBRA
-0608,Muito Elevado,40.4275,-8.7369,Mira,COIMBRA
+0608,Elevado,40.4275,-8.7369,Mira,COIMBRA
 0609,Máximo,40.0915,-8.3309,Miranda do Corvo,COIMBRA
 0610,Moderado,40.1775,-8.6803,Montemor-o-Velho,COIMBRA
 0611,Máximo,40.36,-7.86,Oliveira do Hospital,COIMBRA
@@ -109,7 +109,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0807,Máximo,37.1039,-8.6765,Lagos,FARO
 0808,Máximo,37.1397,-8.0202,Loulé,FARO
 0809,Máximo,37.32,-8.56,Monchique,FARO
-0810,Moderado,37.03,-7.84,Olhão,FARO
+0810,Elevado,37.03,-7.84,Olhão,FARO
 0811,Máximo,37.15,-8.52,Portimão,FARO
 0812,Máximo,37.15,-7.89,São Brás de Alportel,FARO
 0813,Máximo,37.19,-8.44,Silves,FARO
@@ -134,14 +134,14 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1002,Máximo,39.8222,-8.3814,Alvaiázere,LEIRIA
 1003,Muito Elevado,39.9131,-8.4378,Ansião,LEIRIA
 1004,Muito Elevado,39.6605,-8.8228,Batalha,LEIRIA
-1005,Elevado,39.27,-9.16,Bombarral,LEIRIA
+1005,Moderado,39.27,-9.16,Bombarral,LEIRIA
 1006,Elevado,39.4067,-9.1405,Caldas da Rainha,LEIRIA
 1007,Máximo,40.01,-8.21,Castanheira de Pêra,LEIRIA
 1008,Máximo,39.9,-8.27,Figueiró dos Vinhos,LEIRIA
 1009,Elevado,39.7473,-8.8069,Leiria,LEIRIA
 1010,Muito Elevado,39.75,-8.93,Marinha Grande,LEIRIA
 1011,Moderado,39.6,-9.07,Nazaré,LEIRIA
-1012,Elevado,39.36,-9.16,Óbidos,LEIRIA
+1012,Moderado,39.36,-9.16,Óbidos,LEIRIA
 1013,Máximo,39.92,-8.15,Pedrógão Grande,LEIRIA
 1014,Moderado,39.3617,-9.3893,Peniche,LEIRIA
 1015,Muito Elevado,39.92,-8.63,Pombal,LEIRIA
@@ -149,7 +149,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1101,Elevado,39.0537,-9.0095,Alenquer,LISBOA
 1102,Muito Elevado,38.9834,-9.0777,Arruda dos Vinhos,LISBOA
 1103,Elevado,39.0697,-8.8695,Azambuja,LISBOA
-1104,Muito Elevado,39.25,-9.1,Cadaval,LISBOA
+1104,Elevado,39.25,-9.1,Cadaval,LISBOA
 1105,Elevado,38.6995,-9.4296,Cascais,LISBOA
 1106,Elevado,38.766,-9.1286,Lisboa,LISBOA
 1107,Muito Elevado,38.83,-9.17,Loures,LISBOA
@@ -179,7 +179,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1215,Elevado,38.96,-7.67,Sousel,PORTALEGRE
 1301,Máximo,41.2697,-8.0795,Amarante,PORTO
 1302,Máximo,41.1609,-8.0376,Baião,PORTO
-1303,Muito Elevado,41.37,-8.19,Felgueiras,PORTO
+1303,Elevado,41.37,-8.19,Felgueiras,PORTO
 1304,Muito Elevado,41.14,-8.5315,Gondomar,PORTO
 1305,Muito Elevado,41.2763,-8.2833,Lousada,PORTO
 1306,Moderado,41.2335,-8.6216,Maia,PORTO
@@ -208,7 +208,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1411,Máximo,39.7,-8.28,Ferreira do Zêzere,SANTARÉM
 1412,Elevado,39.4052,-8.4847,Golegã,SANTARÉM
 1413,Máximo,39.5573,-7.9954,Mação,SANTARÉM
-1414,Muito Elevado,39.3393,-8.9359,Rio Maior,SANTARÉM
+1414,Elevado,39.3393,-8.9359,Rio Maior,SANTARÉM
 1415,Elevado,39.025,-8.7896,Salvaterra de Magos,SANTARÉM
 1416,Elevado,39.2,-8.74,Santarém,SANTARÉM
 1417,Máximo,39.54,-8.16,Sardoal,SANTARÉM
@@ -227,8 +227,8 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1509,Elevado,38.0212,-8.7177,Santiago do Cacém,SETÚBAL
 1510,Elevado,38.633,-9.1085,Seixal,SETÚBAL
 1511,Elevado,38.4467,-9.1062,Sesimbra,SETÚBAL
-1512,Moderado,38.5246,-8.8856,Setúbal,SETÚBAL
-1513,Moderado,37.956,-8.8643,Sines,SETÚBAL
+1512,Elevado,38.5246,-8.8856,Setúbal,SETÚBAL
+1513,Elevado,37.956,-8.8643,Sines,SETÚBAL
 1601,Máximo,41.8458,-8.4177,Arcos de Valdevez,VIANA DO CASTELO
 1602,Muito Elevado,41.8718,-8.8533,Caminha,VIANA DO CASTELO
 1603,Máximo,42.1127,-8.2611,Melgaço,VIANA DO CASTELO
@@ -260,7 +260,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1805,Máximo,41.1,-7.81,Lamego,VISEU
 1806,Máximo,40.61,-7.76,Mangualde,VISEU
 1807,Máximo,40.9818,-7.6154,Moimenta da Beira,VISEU
-1808,Máximo,40.4,-8.23,Mortágua,VISEU
+1808,Muito Elevado,40.4,-8.23,Mortágua,VISEU
 1809,Máximo,40.5321,-7.8522,Nelas,VISEU
 1810,Máximo,40.7301,-8.1738,Oliveira de Frades,VISEU
 1811,Máximo,40.68,-7.7,Penalva do Castelo,VISEU
