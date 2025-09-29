@@ -1,7 +1,7 @@
 DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
-0101,Reduzido,40.58,-8.44,Águeda,AVEIRO
+0101,Moderado,40.58,-8.44,Águeda,AVEIRO
 0102,Reduzido,40.6909,-8.4784,Albergaria-a-Velha,AVEIRO
-0103,Reduzido,40.44,-8.44,Anadia,AVEIRO
+0103,Moderado,40.44,-8.44,Anadia,AVEIRO
 0104,Reduzido,40.93,-8.26,Arouca,AVEIRO
 0105,Reduzido,40.6413,-8.6535,Aveiro,AVEIRO
 0106,Reduzido,41.0409,-8.2707,Castelo de Paiva,AVEIRO
@@ -15,23 +15,23 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0114,Reduzido,40.5157,-8.4941,Oliveira do Bairro,AVEIRO
 0115,Reduzido,40.8596,-8.6254,Ovar,AVEIRO
 0116,Reduzido,40.9,-8.49,São João da Madeira,AVEIRO
-0117,Reduzido,40.7334,-8.3713,Sever do Vouga,AVEIRO
+0117,Moderado,40.7334,-8.3713,Sever do Vouga,AVEIRO
 0118,Reduzido,40.5535,-8.6833,Vagos,AVEIRO
 0119,Reduzido,40.85,-8.39,Vale de Cambra,AVEIRO
 0201,Moderado,37.88,-8.17,Aljustrel,BEJA
-0202,Moderado,37.5108,-8.056,Almodôvar,BEJA
+0202,Elevado,37.5108,-8.056,Almodôvar,BEJA
 0203,Reduzido,38.26,-8,Alvito,BEJA
-0204,Moderado,38.13,-6.98,Barrancos,BEJA
-0205,Reduzido,38.02,-7.87,Beja,BEJA
-0206,Reduzido,38.07,-7.93,Castro Verde,BEJA
-0207,Reduzido,38.17,-7.89,Cuba,BEJA
-0208,Reduzido,38.06,-8.11,Ferreira do Alentejo,BEJA
+0204,Reduzido,38.13,-6.98,Barrancos,BEJA
+0205,Moderado,38.02,-7.87,Beja,BEJA
+0206,Moderado,38.07,-7.93,Castro Verde,BEJA
+0207,Moderado,38.17,-7.89,Cuba,BEJA
+0208,Moderado,38.06,-8.11,Ferreira do Alentejo,BEJA
 0209,Moderado,37.6428,-7.6605,Mértola,BEJA
-0210,Moderado,38.14,-7.45,Moura,BEJA
+0210,Reduzido,38.14,-7.45,Moura,BEJA
 0211,Reduzido,37.5978,-8.639,Odemira,BEJA
-0212,Reduzido,37.65,-8.22,Ourique,BEJA
-0213,Reduzido,37.95,-7.6,Serpa,BEJA
-0214,Reduzido,38.21,-7.8,Vidigueira,BEJA
+0212,Moderado,37.65,-8.22,Ourique,BEJA
+0213,Moderado,37.95,-7.6,Serpa,BEJA
+0214,Moderado,38.21,-7.8,Vidigueira,BEJA
 0301,Reduzido,41.54,-8.61,Amares,BRAGA
 0302,Reduzido,41.6314,-8.3489,Barcelos,BRAGA
 0303,Reduzido,41.5475,-8.4227,Braga,BRAGA
@@ -46,97 +46,97 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0312,Reduzido,41.4087,-8.5205,Vila Nova de Famalicão,BRAGA
 0313,Reduzido,41.6545,-8.4348,Vila Verde,BRAGA
 0314,Reduzido,41.38,-8.31,Vizela,BRAGA
-0401,Reduzido,41.3424,-6.9625,Alfândega da Fé,BRAGANÇA
-0402,Reduzido,41.8076,-6.7606,Bragança,BRAGANÇA
+0401,Moderado,41.3424,-6.9625,Alfândega da Fé,BRAGANÇA
+0402,Muito Elevado,41.8076,-6.7606,Bragança,BRAGANÇA
 0403,Reduzido,41.2431,-7.3077,Carrazeda de Ansiães,BRAGANÇA
-0404,Reduzido,41.09,-6.81,Freixo de Espada à Cinta,BRAGANÇA
-0405,Reduzido,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
-0406,Reduzido,41.5,-6.27,Miranda do Douro,BRAGANÇA
-0407,Reduzido,41.4823,-7.1812,Mirandela,BRAGANÇA
-0408,Reduzido,41.3421,-6.7115,Mogadouro,BRAGANÇA
-0409,Reduzido,41.1742,-7.0532,Torre de Moncorvo,BRAGANÇA
+0404,Moderado,41.09,-6.81,Freixo de Espada à Cinta,BRAGANÇA
+0405,Moderado,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
+0406,Elevado,41.5,-6.27,Miranda do Douro,BRAGANÇA
+0407,Moderado,41.4823,-7.1812,Mirandela,BRAGANÇA
+0408,Elevado,41.3421,-6.7115,Mogadouro,BRAGANÇA
+0409,Moderado,41.1742,-7.0532,Torre de Moncorvo,BRAGANÇA
 0410,Reduzido,41.3083,-7.1519,Vila Flor,BRAGANÇA
-0411,Reduzido,41.59,-6.53,Vimioso,BRAGANÇA
-0412,Reduzido,41.8314,-7.0099,Vinhais,BRAGANÇA
-0501,Reduzido,40.3597,-7.3486,Belmonte,CASTELO BRANCO
+0411,Elevado,41.59,-6.53,Vimioso,BRAGANÇA
+0412,Elevado,41.8314,-7.0099,Vinhais,BRAGANÇA
+0501,Moderado,40.3597,-7.3486,Belmonte,CASTELO BRANCO
 0502,Reduzido,39.8217,-7.4957,Castelo Branco,CASTELO BRANCO
-0503,Reduzido,40.2779,-7.4992,Covilhã,CASTELO BRANCO
-0504,Reduzido,40.1378,-7.5011,Fundão,CASTELO BRANCO
+0503,Elevado,40.2779,-7.4992,Covilhã,CASTELO BRANCO
+0504,Moderado,40.1378,-7.5011,Fundão,CASTELO BRANCO
 0505,Reduzido,39.93,-7.24,Idanha-a-Nova,CASTELO BRANCO
 0506,Reduzido,39.92,-7.91,Oleiros,CASTELO BRANCO
 0507,Reduzido,40.17,-7.17,Penamacor,CASTELO BRANCO
 0508,Reduzido,39.7495,-7.9229,Proença-a-Nova,CASTELO BRANCO
 0509,Reduzido,39.8007,-8.0979,Sertã,CASTELO BRANCO
-0510,Reduzido,39.6753,-8.144,Vila de Rei,CASTELO BRANCO
+0510,Moderado,39.6753,-8.144,Vila de Rei,CASTELO BRANCO
 0511,Reduzido,39.6571,-7.6705,Vila Velha de Ródão,CASTELO BRANCO
-0601,Reduzido,40.22,-8.05,Arganil,COIMBRA
+0601,Moderado,40.22,-8.05,Arganil,COIMBRA
 0602,Reduzido,40.3466,-8.5943,Cantanhede,COIMBRA
 0603,Reduzido,40.2081,-8.4194,Coimbra,COIMBRA
 0604,Reduzido,40.1097,-8.5027,Condeixa-a-Nova,COIMBRA
-0605,Reduzido,40.1512,-8.8558,Figueira da Foz,COIMBRA
-0606,Reduzido,40.15,-8.11,Góis,COIMBRA
-0607,Reduzido,40.112,-8.2469,Lousã,COIMBRA
+0605,Moderado,40.1512,-8.8558,Figueira da Foz,COIMBRA
+0606,Moderado,40.15,-8.11,Góis,COIMBRA
+0607,Elevado,40.112,-8.2469,Lousã,COIMBRA
 0608,Reduzido,40.4275,-8.7369,Mira,COIMBRA
-0609,Reduzido,40.0915,-8.3309,Miranda do Corvo,COIMBRA
+0609,Moderado,40.0915,-8.3309,Miranda do Corvo,COIMBRA
 0610,Reduzido,40.1775,-8.6803,Montemor-o-Velho,COIMBRA
-0611,Reduzido,40.36,-7.86,Oliveira do Hospital,COIMBRA
+0611,Elevado,40.36,-7.86,Oliveira do Hospital,COIMBRA
 0612,Reduzido,40.15,-7.93,Pampilhosa da Serra,COIMBRA
 0613,Reduzido,40.27,-8.27,Penacova,COIMBRA
 0614,Reduzido,40.03,-8.39,Penela,COIMBRA
 0615,Reduzido,40.06,-8.61,Soure,COIMBRA
-0616,Reduzido,40.36,-8.02,Tábua,COIMBRA
-0617,Reduzido,40.2099,-8.2586,Vila Nova de Poiares,COIMBRA
+0616,Moderado,40.36,-8.02,Tábua,COIMBRA
+0617,Moderado,40.2099,-8.2586,Vila Nova de Poiares,COIMBRA
 0701,Reduzido,38.7,-7.4,Alandroal,ÉVORA
 0702,Reduzido,38.72,-7.99,Arraiolos,ÉVORA
 0703,Reduzido,38.8056,-7.4554,Borba,ÉVORA
 0704,Reduzido,38.8434,-7.5869,Estremoz,ÉVORA
-0705,Reduzido,38.5701,-7.9104,Évora,ÉVORA
+0705,Moderado,38.5701,-7.9104,Évora,ÉVORA
 0706,Reduzido,38.65,-8.21,Montemor-o-Novo,ÉVORA
 0707,Reduzido,38.94,-8.16,Mora,ÉVORA
 0708,Reduzido,38.39,-7.34,Mourão,ÉVORA
-0709,Reduzido,38.307,-7.7079,Portel,ÉVORA
+0709,Moderado,38.307,-7.7079,Portel,ÉVORA
 0710,Reduzido,38.65,-7.55,Redondo,ÉVORA
 0711,Reduzido,38.4229,-7.5397,Reguengos de Monsaraz,ÉVORA
 0712,Reduzido,38.68,-8.46,Vendas Novas,ÉVORA
 0713,Reduzido,38.3375,-8.0019,Viana do Alentejo,ÉVORA
 0714,Reduzido,38.7747,-7.4204,Vila Viçosa,ÉVORA
-0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
+0801,Moderado,37.0897,-8.2472,Albufeira,FARO
 0802,Elevado,37.47,-7.48,Alcoutim,FARO
 0803,Reduzido,37.3169,-8.8028,Aljezur,FARO
 0804,Elevado,37.2198,-7.4445,Castro Marim,FARO
 0805,Moderado,37.0146,-7.9331,Faro,FARO
 0806,Moderado,37.1352,-8.455,Lagoa,FARO
 0807,Moderado,37.1039,-8.6765,Lagos,FARO
-0808,Moderado,37.1397,-8.0202,Loulé,FARO
+0808,Muito Elevado,37.1397,-8.0202,Loulé,FARO
 0809,Moderado,37.32,-8.56,Monchique,FARO
-0810,Moderado,37.03,-7.84,Olhão,FARO
-0811,Moderado,37.15,-8.52,Portimão,FARO
+0810,Reduzido,37.03,-7.84,Olhão,FARO
+0811,Elevado,37.15,-8.52,Portimão,FARO
 0812,Muito Elevado,37.15,-7.89,São Brás de Alportel,FARO
-0813,Moderado,37.19,-8.44,Silves,FARO
+0813,Elevado,37.19,-8.44,Silves,FARO
 0814,Muito Elevado,37.13,-7.65,Tavira,FARO
-0815,Moderado,37.0828,-8.9103,Vila do Bispo,FARO
-0816,Elevado,37.19,-7.42,Vila Real de Santo António,FARO
+0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
+0816,Moderado,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
-0902,Reduzido,40.72,-6.91,Almeida,GUARDA
+0902,Elevado,40.72,-6.91,Almeida,GUARDA
 0903,Reduzido,40.64,-7.39,Celorico da Beira,GUARDA
-0904,Reduzido,40.8943,-6.9629,Figueira de Castelo Rodrigo,GUARDA
-0905,Reduzido,40.6201,-7.5393,Fornos de Algodres,GUARDA
-0906,Reduzido,40.4921,-7.5937,Gouveia,GUARDA
+0904,Muito Elevado,40.8943,-6.9629,Figueira de Castelo Rodrigo,GUARDA
+0905,Moderado,40.6201,-7.5393,Fornos de Algodres,GUARDA
+0906,Moderado,40.4921,-7.5937,Gouveia,GUARDA
 0907,Reduzido,40.5379,-7.2647,Guarda,GUARDA
 0908,Reduzido,40.4,-7.54,Manteigas,GUARDA
-0909,Reduzido,40.97,-7.26,Mêda,GUARDA
-0910,Reduzido,40.7716,-7.0678,Pinhel,GUARDA
+0909,Moderado,40.97,-7.26,Mêda,GUARDA
+0910,Elevado,40.7716,-7.0678,Pinhel,GUARDA
 0911,Reduzido,40.3519,-7.0898,Sabugal,GUARDA
-0912,Reduzido,40.4143,-7.71,Seia,GUARDA
+0912,Elevado,40.4143,-7.71,Seia,GUARDA
 0913,Reduzido,40.78,-7.35,Trancoso,GUARDA
-0914,Reduzido,41.0818,-7.1433,Vila Nova de Foz Côa,GUARDA
+0914,Moderado,41.0818,-7.1433,Vila Nova de Foz Côa,GUARDA
 1001,Reduzido,39.55,-8.97,Alcobaça,LEIRIA
 1002,Reduzido,39.8222,-8.3814,Alvaiázere,LEIRIA
 1003,Reduzido,39.9131,-8.4378,Ansião,LEIRIA
 1004,Reduzido,39.6605,-8.8228,Batalha,LEIRIA
 1005,Reduzido,39.27,-9.16,Bombarral,LEIRIA
 1006,Reduzido,39.4067,-9.1405,Caldas da Rainha,LEIRIA
-1007,Reduzido,40.01,-8.21,Castanheira de Pêra,LEIRIA
+1007,Moderado,40.01,-8.21,Castanheira de Pêra,LEIRIA
 1008,Reduzido,39.9,-8.27,Figueiró dos Vinhos,LEIRIA
 1009,Reduzido,39.7473,-8.8069,Leiria,LEIRIA
 1010,Reduzido,39.75,-8.93,Marinha Grande,LEIRIA
@@ -166,16 +166,16 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1202,Reduzido,39.13,-7.29,Arronches,PORTALEGRE
 1203,Reduzido,39.11,-7.88,Avis,PORTALEGRE
 1204,Reduzido,39.01,-7.07,Campo Maior,PORTALEGRE
-1205,Reduzido,39.4151,-7.4552,Castelo de Vide,PORTALEGRE
-1206,Reduzido,39.29,-7.64,Crato,PORTALEGRE
+1205,Moderado,39.4151,-7.4552,Castelo de Vide,PORTALEGRE
+1206,Moderado,39.29,-7.64,Crato,PORTALEGRE
 1207,Reduzido,38.8788,-7.1662,Elvas,PORTALEGRE
 1208,Reduzido,39.06,-7.65,Fronteira,PORTALEGRE
-1209,Reduzido,39.4651,-7.936,Gavião,PORTALEGRE
-1210,Reduzido,39.394,-7.3768,Marvão,PORTALEGRE
+1209,Moderado,39.4651,-7.936,Gavião,PORTALEGRE
+1210,Elevado,39.394,-7.3768,Marvão,PORTALEGRE
 1211,Reduzido,39.06,-7.43,Monforte,PORTALEGRE
-1212,Reduzido,39.52,-7.65,Nisa,PORTALEGRE
+1212,Moderado,39.52,-7.65,Nisa,PORTALEGRE
 1213,Reduzido,39.25,-8.01,Ponte de Sor,PORTALEGRE
-1214,Reduzido,39.29,-7.42,Portalegre,PORTALEGRE
+1214,Elevado,39.29,-7.42,Portalegre,PORTALEGRE
 1215,Reduzido,38.96,-7.67,Sousel,PORTALEGRE
 1301,Reduzido,41.2697,-8.0795,Amarante,PORTO
 1302,Reduzido,41.1609,-8.0376,Baião,PORTO
@@ -195,26 +195,26 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1316,Reduzido,41.36,-8.74,Vila do Conde,PORTO
 1317,Reduzido,41.1285,-8.6229,Vila Nova de Gaia,PORTO
 1318,Reduzido,41.339,-8.5602,Trofa,PORTO
-1401,Reduzido,39.4616,-8.1995,Abrantes,SANTARÉM
-1402,Reduzido,39.46,-8.67,Alcanena,SANTARÉM
-1403,Reduzido,39.21,-8.63,Almeirim,SANTARÉM
+1401,Moderado,39.4616,-8.1995,Abrantes,SANTARÉM
+1402,Moderado,39.46,-8.67,Alcanena,SANTARÉM
+1403,Moderado,39.21,-8.63,Almeirim,SANTARÉM
 1404,Reduzido,39.26,-8.59,Alpiarça,SANTARÉM
 1405,Reduzido,38.97,-8.81,Benavente,SANTARÉM
 1406,Reduzido,39.1612,-8.7923,Cartaxo,SANTARÉM
-1407,Reduzido,39.36,-8.48,Chamusca,SANTARÉM
-1408,Reduzido,39.4774,-8.3379,Constância,SANTARÉM
-1409,Reduzido,38.9608,-8.5274,Coruche,SANTARÉM
+1407,Moderado,39.36,-8.48,Chamusca,SANTARÉM
+1408,Moderado,39.4774,-8.3379,Constância,SANTARÉM
+1409,Moderado,38.9608,-8.5274,Coruche,SANTARÉM
 1410,Reduzido,39.47,-8.47,Entroncamento,SANTARÉM
-1411,Reduzido,39.7,-8.28,Ferreira do Zêzere,SANTARÉM
+1411,Moderado,39.7,-8.28,Ferreira do Zêzere,SANTARÉM
 1412,Reduzido,39.4052,-8.4847,Golegã,SANTARÉM
 1413,Reduzido,39.5573,-7.9954,Mação,SANTARÉM
 1414,Reduzido,39.3393,-8.9359,Rio Maior,SANTARÉM
-1415,Reduzido,39.025,-8.7896,Salvaterra de Magos,SANTARÉM
+1415,Moderado,39.025,-8.7896,Salvaterra de Magos,SANTARÉM
 1416,Reduzido,39.2,-8.74,Santarém,SANTARÉM
-1417,Reduzido,39.54,-8.16,Sardoal,SANTARÉM
-1418,Reduzido,39.6042,-8.4125,Tomar,SANTARÉM
+1417,Moderado,39.54,-8.16,Sardoal,SANTARÉM
+1418,Moderado,39.6042,-8.4125,Tomar,SANTARÉM
 1419,Reduzido,39.479,-8.539,Torres Novas,SANTARÉM
-1420,Reduzido,39.46,-8.43,Vila Nova da Barquinha,SANTARÉM
+1420,Moderado,39.46,-8.43,Vila Nova da Barquinha,SANTARÉM
 1421,Reduzido,39.6568,-8.5788,Ourém,SANTARÉM
 1501,Reduzido,38.3731,-8.5135,Alcácer do Sal,SETÚBAL
 1502,Reduzido,38.7529,-8.9604,Alcochete,SETÚBAL
@@ -226,9 +226,9 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1508,Reduzido,38.5817,-8.8903,Palmela,SETÚBAL
 1509,Moderado,38.0212,-8.7177,Santiago do Cacém,SETÚBAL
 1510,Reduzido,38.633,-9.1085,Seixal,SETÚBAL
-1511,Reduzido,38.4467,-9.1062,Sesimbra,SETÚBAL
-1512,Reduzido,38.5246,-8.8856,Setúbal,SETÚBAL
-1513,Moderado,37.956,-8.8643,Sines,SETÚBAL
+1511,Moderado,38.4467,-9.1062,Sesimbra,SETÚBAL
+1512,Moderado,38.5246,-8.8856,Setúbal,SETÚBAL
+1513,Reduzido,37.956,-8.8643,Sines,SETÚBAL
 1601,Reduzido,41.8458,-8.4177,Arcos de Valdevez,VIANA DO CASTELO
 1602,Reduzido,41.8718,-8.8533,Caminha,VIANA DO CASTELO
 1603,Reduzido,42.1127,-8.2611,Melgaço,VIANA DO CASTELO
@@ -250,30 +250,30 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1709,Reduzido,41.5194,-7.7936,Ribeira de Pena,VILA REAL
 1710,Reduzido,41.27,-7.58,Sabrosa,VILA REAL
 1711,Reduzido,41.21,-7.79,Santa Marta de Penaguião,VILA REAL
-1712,Reduzido,41.61,-7.31,Valpaços,VILA REAL
+1712,Moderado,41.61,-7.31,Valpaços,VILA REAL
 1713,Reduzido,41.4986,-7.6441,Vila Pouca de Aguiar,VILA REAL
 1714,Reduzido,41.3053,-7.744,Vila Real,VILA REAL
 1801,Reduzido,41.1071,-7.6908,Armamar,VISEU
-1802,Reduzido,40.44,-8,Carregal do Sal,VISEU
+1802,Muito Elevado,40.44,-8,Carregal do Sal,VISEU
 1803,Reduzido,40.9,-7.94,Castro Daire,VISEU
 1804,Reduzido,41.0749,-8.0958,Cinfães,VISEU
 1805,Reduzido,41.1,-7.81,Lamego,VISEU
-1806,Reduzido,40.61,-7.76,Mangualde,VISEU
+1806,Moderado,40.61,-7.76,Mangualde,VISEU
 1807,Reduzido,40.9818,-7.6154,Moimenta da Beira,VISEU
-1808,Reduzido,40.4,-8.23,Mortágua,VISEU
-1809,Reduzido,40.5321,-7.8522,Nelas,VISEU
-1810,Reduzido,40.7301,-8.1738,Oliveira de Frades,VISEU
-1811,Reduzido,40.68,-7.7,Penalva do Castelo,VISEU
+1808,Moderado,40.4,-8.23,Mortágua,VISEU
+1809,Elevado,40.5321,-7.8522,Nelas,VISEU
+1810,Moderado,40.7301,-8.1738,Oliveira de Frades,VISEU
+1811,Moderado,40.68,-7.7,Penalva do Castelo,VISEU
 1812,Reduzido,40.99,-7.4,Penedono,VISEU
 1813,Reduzido,41.1058,-7.9627,Resende,VISEU
-1814,Reduzido,40.4,-8.13,Santa Comba Dão,VISEU
+1814,Moderado,40.4,-8.13,Santa Comba Dão,VISEU
 1815,Reduzido,41.15,-7.41,São João da Pesqueira,VISEU
-1816,Reduzido,40.76,-8.0642,São Pedro do Sul,VISEU
+1816,Moderado,40.76,-8.0642,São Pedro do Sul,VISEU
 1817,Reduzido,40.75,-7.74,Sátão,VISEU
 1818,Reduzido,40.8982,-7.4916,Sernancelhe,VISEU
 1819,Reduzido,41.1154,-7.5674,Tabuaço,VISEU
 1820,Reduzido,41.02,-7.77,Tarouca,VISEU
-1821,Reduzido,40.52,-8.08,Tondela,VISEU
+1821,Moderado,40.52,-8.08,Tondela,VISEU
 1822,Reduzido,40.85,-7.73,Vila Nova de Paiva,VISEU
-1823,Reduzido,40.6585,-7.912,Viseu,VISEU
-1824,Reduzido,40.7249,-8.1135,Vouzela,VISEU
+1823,Moderado,40.6585,-7.912,Viseu,VISEU
+1824,Moderado,40.7249,-8.1135,Vouzela,VISEU
