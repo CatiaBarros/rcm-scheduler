@@ -21,13 +21,13 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0201,Reduzido,37.88,-8.17,Aljustrel,BEJA
 0202,Reduzido,37.5108,-8.056,Almodôvar,BEJA
 0203,Reduzido,38.26,-8,Alvito,BEJA
-0204,Moderado,38.13,-6.98,Barrancos,BEJA
+0204,Reduzido,38.13,-6.98,Barrancos,BEJA
 0205,Reduzido,38.02,-7.87,Beja,BEJA
 0206,Reduzido,38.07,-7.93,Castro Verde,BEJA
 0207,Reduzido,38.17,-7.89,Cuba,BEJA
 0208,Reduzido,38.06,-8.11,Ferreira do Alentejo,BEJA
 0209,Reduzido,37.6428,-7.6605,Mértola,BEJA
-0210,Moderado,38.14,-7.45,Moura,BEJA
+0210,Reduzido,38.14,-7.45,Moura,BEJA
 0211,Reduzido,37.5978,-8.639,Odemira,BEJA
 0212,Reduzido,37.65,-8.22,Ourique,BEJA
 0213,Reduzido,37.95,-7.6,Serpa,BEJA
@@ -47,16 +47,16 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0313,Reduzido,41.6545,-8.4348,Vila Verde,BRAGA
 0314,Reduzido,41.38,-8.31,Vizela,BRAGA
 0401,Reduzido,41.3424,-6.9625,Alfândega da Fé,BRAGANÇA
-0402,Moderado,41.8076,-6.7606,Bragança,BRAGANÇA
+0402,Reduzido,41.8076,-6.7606,Bragança,BRAGANÇA
 0403,Reduzido,41.2431,-7.3077,Carrazeda de Ansiães,BRAGANÇA
 0404,Reduzido,41.09,-6.81,Freixo de Espada à Cinta,BRAGANÇA
-0405,Moderado,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
+0405,Reduzido,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
 0406,Reduzido,41.5,-6.27,Miranda do Douro,BRAGANÇA
 0407,Reduzido,41.4823,-7.1812,Mirandela,BRAGANÇA
-0408,Moderado,41.3421,-6.7115,Mogadouro,BRAGANÇA
+0408,Reduzido,41.3421,-6.7115,Mogadouro,BRAGANÇA
 0409,Reduzido,41.1742,-7.0532,Torre de Moncorvo,BRAGANÇA
 0410,Reduzido,41.3083,-7.1519,Vila Flor,BRAGANÇA
-0411,Moderado,41.59,-6.53,Vimioso,BRAGANÇA
+0411,Reduzido,41.59,-6.53,Vimioso,BRAGANÇA
 0412,Reduzido,41.8314,-7.0099,Vinhais,BRAGANÇA
 0501,Reduzido,40.3597,-7.3486,Belmonte,CASTELO BRANCO
 0502,Reduzido,39.8217,-7.4957,Castelo Branco,CASTELO BRANCO
@@ -102,7 +102,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0714,Reduzido,38.7747,-7.4204,Vila Viçosa,ÉVORA
 0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
 0802,Reduzido,37.47,-7.48,Alcoutim,FARO
-0803,Moderado,37.3169,-8.8028,Aljezur,FARO
+0803,Reduzido,37.3169,-8.8028,Aljezur,FARO
 0804,Reduzido,37.2198,-7.4445,Castro Marim,FARO
 0805,Reduzido,37.0146,-7.9331,Faro,FARO
 0806,Reduzido,37.1352,-8.455,Lagoa,FARO
@@ -113,7 +113,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0811,Reduzido,37.15,-8.52,Portimão,FARO
 0812,Reduzido,37.15,-7.89,São Brás de Alportel,FARO
 0813,Reduzido,37.19,-8.44,Silves,FARO
-0814,Moderado,37.13,-7.65,Tavira,FARO
+0814,Reduzido,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
 0816,Reduzido,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
@@ -171,11 +171,11 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1207,Reduzido,38.8788,-7.1662,Elvas,PORTALEGRE
 1208,Reduzido,39.06,-7.65,Fronteira,PORTALEGRE
 1209,Reduzido,39.4651,-7.936,Gavião,PORTALEGRE
-1210,Moderado,39.394,-7.3768,Marvão,PORTALEGRE
+1210,Reduzido,39.394,-7.3768,Marvão,PORTALEGRE
 1211,Reduzido,39.06,-7.43,Monforte,PORTALEGRE
 1212,Reduzido,39.52,-7.65,Nisa,PORTALEGRE
 1213,Reduzido,39.25,-8.01,Ponte de Sor,PORTALEGRE
-1214,Moderado,39.29,-7.42,Portalegre,PORTALEGRE
+1214,Reduzido,39.29,-7.42,Portalegre,PORTALEGRE
 1215,Reduzido,38.96,-7.67,Sousel,PORTALEGRE
 1301,Reduzido,41.2697,-8.0795,Amarante,PORTO
 1302,Reduzido,41.1609,-8.0376,Baião,PORTO
@@ -241,7 +241,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1610,Reduzido,41.9418,-8.7423,Vila Nova de Cerveira,VIANA DO CASTELO
 1701,Reduzido,41.2762,-7.4751,Alijó,VILA REAL
 1702,Reduzido,41.6877,-7.6682,Boticas,VILA REAL
-1703,Moderado,41.742,-7.4721,Chaves,VILA REAL
+1703,Reduzido,41.742,-7.4721,Chaves,VILA REAL
 1704,Reduzido,41.1601,-7.8907,Mesão Frio,VILA REAL
 1705,Reduzido,41.4105,-7.9526,Mondim de Basto,VILA REAL
 1706,Reduzido,41.8245,-7.79,Montalegre,VILA REAL
@@ -250,7 +250,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1709,Reduzido,41.5194,-7.7936,Ribeira de Pena,VILA REAL
 1710,Reduzido,41.27,-7.58,Sabrosa,VILA REAL
 1711,Reduzido,41.21,-7.79,Santa Marta de Penaguião,VILA REAL
-1712,Moderado,41.61,-7.31,Valpaços,VILA REAL
+1712,Reduzido,41.61,-7.31,Valpaços,VILA REAL
 1713,Reduzido,41.4986,-7.6441,Vila Pouca de Aguiar,VILA REAL
 1714,Reduzido,41.3053,-7.744,Vila Real,VILA REAL
 1801,Reduzido,41.1071,-7.6908,Armamar,VISEU
