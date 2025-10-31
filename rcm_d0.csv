@@ -18,17 +18,17 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0117,Reduzido,40.7334,-8.3713,Sever do Vouga,AVEIRO
 0118,Reduzido,40.5535,-8.6833,Vagos,AVEIRO
 0119,Reduzido,40.85,-8.39,Vale de Cambra,AVEIRO
-0201,Reduzido,37.88,-8.17,Aljustrel,BEJA
+0201,Moderado,37.88,-8.17,Aljustrel,BEJA
 0202,Reduzido,37.5108,-8.056,Almodôvar,BEJA
 0203,Reduzido,38.26,-8,Alvito,BEJA
 0204,Reduzido,38.13,-6.98,Barrancos,BEJA
 0205,Reduzido,38.02,-7.87,Beja,BEJA
 0206,Reduzido,38.07,-7.93,Castro Verde,BEJA
 0207,Reduzido,38.17,-7.89,Cuba,BEJA
-0208,Reduzido,38.06,-8.11,Ferreira do Alentejo,BEJA
+0208,Moderado,38.06,-8.11,Ferreira do Alentejo,BEJA
 0209,Reduzido,37.6428,-7.6605,Mértola,BEJA
 0210,Reduzido,38.14,-7.45,Moura,BEJA
-0211,Reduzido,37.5978,-8.639,Odemira,BEJA
+0211,Moderado,37.5978,-8.639,Odemira,BEJA
 0212,Reduzido,37.65,-8.22,Ourique,BEJA
 0213,Reduzido,37.95,-7.6,Serpa,BEJA
 0214,Reduzido,38.21,-7.8,Vidigueira,BEJA
@@ -102,7 +102,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0714,Reduzido,38.7747,-7.4204,Vila Viçosa,ÉVORA
 0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
 0802,Reduzido,37.47,-7.48,Alcoutim,FARO
-0803,Reduzido,37.3169,-8.8028,Aljezur,FARO
+0803,Moderado,37.3169,-8.8028,Aljezur,FARO
 0804,Reduzido,37.2198,-7.4445,Castro Marim,FARO
 0805,Reduzido,37.0146,-7.9331,Faro,FARO
 0806,Reduzido,37.1352,-8.455,Lagoa,FARO
@@ -113,7 +113,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0811,Reduzido,37.15,-8.52,Portimão,FARO
 0812,Reduzido,37.15,-7.89,São Brás de Alportel,FARO
 0813,Reduzido,37.19,-8.44,Silves,FARO
-0814,Reduzido,37.13,-7.65,Tavira,FARO
+0814,Moderado,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
 0816,Reduzido,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
@@ -224,7 +224,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1506,Reduzido,38.651,-8.9927,Moita,SETÚBAL
 1507,Reduzido,38.7043,-8.9755,Montijo,SETÚBAL
 1508,Reduzido,38.5817,-8.8903,Palmela,SETÚBAL
-1509,Reduzido,38.0212,-8.7177,Santiago do Cacém,SETÚBAL
+1509,Moderado,38.0212,-8.7177,Santiago do Cacém,SETÚBAL
 1510,Reduzido,38.633,-9.1085,Seixal,SETÚBAL
 1511,Reduzido,38.4467,-9.1062,Sesimbra,SETÚBAL
 1512,Reduzido,38.5246,-8.8856,Setúbal,SETÚBAL
