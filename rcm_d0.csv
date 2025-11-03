@@ -103,7 +103,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
 0802,Reduzido,37.47,-7.48,Alcoutim,FARO
 0803,Reduzido,37.3169,-8.8028,Aljezur,FARO
-0804,Reduzido,37.2198,-7.4445,Castro Marim,FARO
+0804,Moderado,37.2198,-7.4445,Castro Marim,FARO
 0805,Reduzido,37.0146,-7.9331,Faro,FARO
 0806,Reduzido,37.1352,-8.455,Lagoa,FARO
 0807,Reduzido,37.1039,-8.6765,Lagos,FARO
@@ -111,11 +111,11 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0809,Reduzido,37.32,-8.56,Monchique,FARO
 0810,Reduzido,37.03,-7.84,Olhão,FARO
 0811,Reduzido,37.15,-8.52,Portimão,FARO
-0812,Reduzido,37.15,-7.89,São Brás de Alportel,FARO
+0812,Moderado,37.15,-7.89,São Brás de Alportel,FARO
 0813,Reduzido,37.19,-8.44,Silves,FARO
 0814,Moderado,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
-0816,Reduzido,37.19,-7.42,Vila Real de Santo António,FARO
+0816,Moderado,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
 0902,Reduzido,40.72,-6.91,Almeida,GUARDA
 0903,Reduzido,40.64,-7.39,Celorico da Beira,GUARDA
