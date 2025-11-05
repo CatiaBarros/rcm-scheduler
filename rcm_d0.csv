@@ -19,19 +19,19 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0118,Reduzido,40.5535,-8.6833,Vagos,AVEIRO
 0119,Reduzido,40.85,-8.39,Vale de Cambra,AVEIRO
 0201,Reduzido,37.88,-8.17,Aljustrel,BEJA
-0202,Moderado,37.5108,-8.056,Almodôvar,BEJA
+0202,Reduzido,37.5108,-8.056,Almodôvar,BEJA
 0203,Reduzido,38.26,-8,Alvito,BEJA
-0204,Moderado,38.13,-6.98,Barrancos,BEJA
+0204,Reduzido,38.13,-6.98,Barrancos,BEJA
 0205,Reduzido,38.02,-7.87,Beja,BEJA
-0206,Moderado,38.07,-7.93,Castro Verde,BEJA
+0206,Reduzido,38.07,-7.93,Castro Verde,BEJA
 0207,Reduzido,38.17,-7.89,Cuba,BEJA
 0208,Reduzido,38.06,-8.11,Ferreira do Alentejo,BEJA
-0209,Moderado,37.6428,-7.6605,Mértola,BEJA
-0210,Moderado,38.14,-7.45,Moura,BEJA
-0211,Moderado,37.5978,-8.639,Odemira,BEJA
-0212,Moderado,37.65,-8.22,Ourique,BEJA
-0213,Moderado,37.95,-7.6,Serpa,BEJA
-0214,Moderado,38.21,-7.8,Vidigueira,BEJA
+0209,Reduzido,37.6428,-7.6605,Mértola,BEJA
+0210,Reduzido,38.14,-7.45,Moura,BEJA
+0211,Reduzido,37.5978,-8.639,Odemira,BEJA
+0212,Reduzido,37.65,-8.22,Ourique,BEJA
+0213,Reduzido,37.95,-7.6,Serpa,BEJA
+0214,Reduzido,38.21,-7.8,Vidigueira,BEJA
 0301,Reduzido,41.54,-8.61,Amares,BRAGA
 0302,Reduzido,41.6314,-8.3489,Barcelos,BRAGA
 0303,Reduzido,41.5475,-8.4227,Braga,BRAGA
@@ -94,28 +94,28 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0706,Reduzido,38.65,-8.21,Montemor-o-Novo,ÉVORA
 0707,Reduzido,38.94,-8.16,Mora,ÉVORA
 0708,Reduzido,38.39,-7.34,Mourão,ÉVORA
-0709,Moderado,38.307,-7.7079,Portel,ÉVORA
+0709,Reduzido,38.307,-7.7079,Portel,ÉVORA
 0710,Reduzido,38.65,-7.55,Redondo,ÉVORA
 0711,Reduzido,38.4229,-7.5397,Reguengos de Monsaraz,ÉVORA
 0712,Reduzido,38.68,-8.46,Vendas Novas,ÉVORA
 0713,Reduzido,38.3375,-8.0019,Viana do Alentejo,ÉVORA
 0714,Reduzido,38.7747,-7.4204,Vila Viçosa,ÉVORA
 0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
-0802,Elevado,37.47,-7.48,Alcoutim,FARO
-0803,Moderado,37.3169,-8.8028,Aljezur,FARO
-0804,Elevado,37.2198,-7.4445,Castro Marim,FARO
+0802,Reduzido,37.47,-7.48,Alcoutim,FARO
+0803,Reduzido,37.3169,-8.8028,Aljezur,FARO
+0804,Reduzido,37.2198,-7.4445,Castro Marim,FARO
 0805,Reduzido,37.0146,-7.9331,Faro,FARO
 0806,Reduzido,37.1352,-8.455,Lagoa,FARO
-0807,Moderado,37.1039,-8.6765,Lagos,FARO
-0808,Moderado,37.1397,-8.0202,Loulé,FARO
-0809,Moderado,37.32,-8.56,Monchique,FARO
+0807,Reduzido,37.1039,-8.6765,Lagos,FARO
+0808,Reduzido,37.1397,-8.0202,Loulé,FARO
+0809,Reduzido,37.32,-8.56,Monchique,FARO
 0810,Reduzido,37.03,-7.84,Olhão,FARO
-0811,Moderado,37.15,-8.52,Portimão,FARO
-0812,Elevado,37.15,-7.89,São Brás de Alportel,FARO
-0813,Moderado,37.19,-8.44,Silves,FARO
-0814,Elevado,37.13,-7.65,Tavira,FARO
+0811,Reduzido,37.15,-8.52,Portimão,FARO
+0812,Reduzido,37.15,-7.89,São Brás de Alportel,FARO
+0813,Reduzido,37.19,-8.44,Silves,FARO
+0814,Reduzido,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
-0816,Moderado,37.19,-7.42,Vila Real de Santo António,FARO
+0816,Reduzido,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
 0902,Reduzido,40.72,-6.91,Almeida,GUARDA
 0903,Reduzido,40.64,-7.39,Celorico da Beira,GUARDA
