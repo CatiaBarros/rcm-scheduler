@@ -26,11 +26,11 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0206,Reduzido,38.07,-7.93,Castro Verde,BEJA
 0207,Reduzido,38.17,-7.89,Cuba,BEJA
 0208,Reduzido,38.06,-8.11,Ferreira do Alentejo,BEJA
-0209,Moderado,37.6428,-7.6605,Mértola,BEJA
+0209,Reduzido,37.6428,-7.6605,Mértola,BEJA
 0210,Reduzido,38.14,-7.45,Moura,BEJA
 0211,Reduzido,37.5978,-8.639,Odemira,BEJA
 0212,Reduzido,37.65,-8.22,Ourique,BEJA
-0213,Moderado,37.95,-7.6,Serpa,BEJA
+0213,Reduzido,37.95,-7.6,Serpa,BEJA
 0214,Reduzido,38.21,-7.8,Vidigueira,BEJA
 0301,Reduzido,41.54,-8.61,Amares,BRAGA
 0302,Reduzido,41.6314,-8.3489,Barcelos,BRAGA
@@ -101,7 +101,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0713,Reduzido,38.3375,-8.0019,Viana do Alentejo,ÉVORA
 0714,Reduzido,38.7747,-7.4204,Vila Viçosa,ÉVORA
 0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
-0802,Moderado,37.47,-7.48,Alcoutim,FARO
+0802,Reduzido,37.47,-7.48,Alcoutim,FARO
 0803,Reduzido,37.3169,-8.8028,Aljezur,FARO
 0804,Moderado,37.2198,-7.4445,Castro Marim,FARO
 0805,Reduzido,37.0146,-7.9331,Faro,FARO
@@ -113,7 +113,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0811,Reduzido,37.15,-8.52,Portimão,FARO
 0812,Moderado,37.15,-7.89,São Brás de Alportel,FARO
 0813,Reduzido,37.19,-8.44,Silves,FARO
-0814,Elevado,37.13,-7.65,Tavira,FARO
+0814,Moderado,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
 0816,Moderado,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
