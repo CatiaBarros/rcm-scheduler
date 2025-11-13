@@ -18,20 +18,20 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0117,Reduzido,40.7334,-8.3713,Sever do Vouga,AVEIRO
 0118,Reduzido,40.5535,-8.6833,Vagos,AVEIRO
 0119,Reduzido,40.85,-8.39,Vale de Cambra,AVEIRO
-0201,Moderado,37.88,-8.17,Aljustrel,BEJA
+0201,Reduzido,37.88,-8.17,Aljustrel,BEJA
 0202,Reduzido,37.5108,-8.056,Almodôvar,BEJA
 0203,Reduzido,38.26,-8,Alvito,BEJA
-0204,Moderado,38.13,-6.98,Barrancos,BEJA
-0205,Moderado,38.02,-7.87,Beja,BEJA
+0204,Reduzido,38.13,-6.98,Barrancos,BEJA
+0205,Reduzido,38.02,-7.87,Beja,BEJA
 0206,Reduzido,38.07,-7.93,Castro Verde,BEJA
 0207,Reduzido,38.17,-7.89,Cuba,BEJA
 0208,Reduzido,38.06,-8.11,Ferreira do Alentejo,BEJA
 0209,Reduzido,37.6428,-7.6605,Mértola,BEJA
-0210,Moderado,38.14,-7.45,Moura,BEJA
+0210,Reduzido,38.14,-7.45,Moura,BEJA
 0211,Reduzido,37.5978,-8.639,Odemira,BEJA
 0212,Reduzido,37.65,-8.22,Ourique,BEJA
 0213,Reduzido,37.95,-7.6,Serpa,BEJA
-0214,Moderado,38.21,-7.8,Vidigueira,BEJA
+0214,Reduzido,38.21,-7.8,Vidigueira,BEJA
 0301,Reduzido,41.54,-8.61,Amares,BRAGA
 0302,Reduzido,41.6314,-8.3489,Barcelos,BRAGA
 0303,Reduzido,41.5475,-8.4227,Braga,BRAGA
@@ -94,7 +94,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0706,Reduzido,38.65,-8.21,Montemor-o-Novo,ÉVORA
 0707,Reduzido,38.94,-8.16,Mora,ÉVORA
 0708,Reduzido,38.39,-7.34,Mourão,ÉVORA
-0709,Moderado,38.307,-7.7079,Portel,ÉVORA
+0709,Reduzido,38.307,-7.7079,Portel,ÉVORA
 0710,Reduzido,38.65,-7.55,Redondo,ÉVORA
 0711,Reduzido,38.4229,-7.5397,Reguengos de Monsaraz,ÉVORA
 0712,Reduzido,38.68,-8.46,Vendas Novas,ÉVORA
@@ -224,7 +224,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1506,Reduzido,38.651,-8.9927,Moita,SETÚBAL
 1507,Reduzido,38.7043,-8.9755,Montijo,SETÚBAL
 1508,Reduzido,38.5817,-8.8903,Palmela,SETÚBAL
-1509,Moderado,38.0212,-8.7177,Santiago do Cacém,SETÚBAL
+1509,Reduzido,38.0212,-8.7177,Santiago do Cacém,SETÚBAL
 1510,Reduzido,38.633,-9.1085,Seixal,SETÚBAL
 1511,Reduzido,38.4467,-9.1062,Sesimbra,SETÚBAL
 1512,Reduzido,38.5246,-8.8856,Setúbal,SETÚBAL
