@@ -80,7 +80,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0609,Reduzido,40.0915,-8.3309,Miranda do Corvo,COIMBRA
 0610,Reduzido,40.1775,-8.6803,Montemor-o-Velho,COIMBRA
 0611,Reduzido,40.36,-7.86,Oliveira do Hospital,COIMBRA
-0612,Reduzido,40.15,-7.93,Pampilhosa da Serra,COIMBRA
+0612,Moderado,40.15,-7.93,Pampilhosa da Serra,COIMBRA
 0613,Reduzido,40.27,-8.27,Penacova,COIMBRA
 0614,Reduzido,40.03,-8.39,Penela,COIMBRA
 0615,Reduzido,40.06,-8.61,Soure,COIMBRA
@@ -110,9 +110,9 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0808,Reduzido,37.1397,-8.0202,Loulé,FARO
 0809,Moderado,37.32,-8.56,Monchique,FARO
 0810,Reduzido,37.03,-7.84,Olhão,FARO
-0811,Moderado,37.15,-8.52,Portimão,FARO
+0811,Reduzido,37.15,-8.52,Portimão,FARO
 0812,Reduzido,37.15,-7.89,São Brás de Alportel,FARO
-0813,Moderado,37.19,-8.44,Silves,FARO
+0813,Reduzido,37.19,-8.44,Silves,FARO
 0814,Reduzido,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
 0816,Reduzido,37.19,-7.42,Vila Real de Santo António,FARO
