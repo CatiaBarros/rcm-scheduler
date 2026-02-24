@@ -63,24 +63,24 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0503,Reduzido,40.2779,-7.4992,Covilhã,CASTELO BRANCO
 0504,Reduzido,40.1378,-7.5011,Fundão,CASTELO BRANCO
 0505,Reduzido,39.93,-7.24,Idanha-a-Nova,CASTELO BRANCO
-0506,Reduzido,39.92,-7.91,Oleiros,CASTELO BRANCO
+0506,Moderado,39.92,-7.91,Oleiros,CASTELO BRANCO
 0507,Reduzido,40.17,-7.17,Penamacor,CASTELO BRANCO
 0508,Reduzido,39.7495,-7.9229,Proença-a-Nova,CASTELO BRANCO
 0509,Reduzido,39.8007,-8.0979,Sertã,CASTELO BRANCO
 0510,Reduzido,39.6753,-8.144,Vila de Rei,CASTELO BRANCO
 0511,Reduzido,39.6571,-7.6705,Vila Velha de Ródão,CASTELO BRANCO
-0601,Reduzido,40.22,-8.05,Arganil,COIMBRA
+0601,Moderado,40.22,-8.05,Arganil,COIMBRA
 0602,Reduzido,40.3466,-8.5943,Cantanhede,COIMBRA
 0603,Reduzido,40.2081,-8.4194,Coimbra,COIMBRA
 0604,Reduzido,40.1097,-8.5027,Condeixa-a-Nova,COIMBRA
 0605,Reduzido,40.1512,-8.8558,Figueira da Foz,COIMBRA
-0606,Reduzido,40.15,-8.11,Góis,COIMBRA
+0606,Moderado,40.15,-8.11,Góis,COIMBRA
 0607,Reduzido,40.112,-8.2469,Lousã,COIMBRA
 0608,Reduzido,40.4275,-8.7369,Mira,COIMBRA
 0609,Reduzido,40.0915,-8.3309,Miranda do Corvo,COIMBRA
 0610,Reduzido,40.1775,-8.6803,Montemor-o-Velho,COIMBRA
 0611,Reduzido,40.36,-7.86,Oliveira do Hospital,COIMBRA
-0612,Moderado,40.15,-7.93,Pampilhosa da Serra,COIMBRA
+0612,Elevado,40.15,-7.93,Pampilhosa da Serra,COIMBRA
 0613,Reduzido,40.27,-8.27,Penacova,COIMBRA
 0614,Reduzido,40.03,-8.39,Penela,COIMBRA
 0615,Reduzido,40.06,-8.61,Soure,COIMBRA
@@ -102,24 +102,24 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0714,Reduzido,38.7747,-7.4204,Vila Viçosa,ÉVORA
 0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
 0802,Reduzido,37.47,-7.48,Alcoutim,FARO
-0803,Reduzido,37.3169,-8.8028,Aljezur,FARO
+0803,Moderado,37.3169,-8.8028,Aljezur,FARO
 0804,Reduzido,37.2198,-7.4445,Castro Marim,FARO
 0805,Reduzido,37.0146,-7.9331,Faro,FARO
 0806,Reduzido,37.1352,-8.455,Lagoa,FARO
-0807,Reduzido,37.1039,-8.6765,Lagos,FARO
+0807,Moderado,37.1039,-8.6765,Lagos,FARO
 0808,Reduzido,37.1397,-8.0202,Loulé,FARO
-0809,Moderado,37.32,-8.56,Monchique,FARO
+0809,Elevado,37.32,-8.56,Monchique,FARO
 0810,Reduzido,37.03,-7.84,Olhão,FARO
-0811,Reduzido,37.15,-8.52,Portimão,FARO
+0811,Moderado,37.15,-8.52,Portimão,FARO
 0812,Reduzido,37.15,-7.89,São Brás de Alportel,FARO
-0813,Reduzido,37.19,-8.44,Silves,FARO
+0813,Moderado,37.19,-8.44,Silves,FARO
 0814,Reduzido,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
 0816,Reduzido,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
 0902,Reduzido,40.72,-6.91,Almeida,GUARDA
 0903,Reduzido,40.64,-7.39,Celorico da Beira,GUARDA
-0904,Reduzido,40.8943,-6.9629,Figueira de Castelo Rodrigo,GUARDA
+0904,Moderado,40.8943,-6.9629,Figueira de Castelo Rodrigo,GUARDA
 0905,Reduzido,40.6201,-7.5393,Fornos de Algodres,GUARDA
 0906,Reduzido,40.4921,-7.5937,Gouveia,GUARDA
 0907,Reduzido,40.5379,-7.2647,Guarda,GUARDA
@@ -273,7 +273,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1818,Reduzido,40.8982,-7.4916,Sernancelhe,VISEU
 1819,Reduzido,41.1154,-7.5674,Tabuaço,VISEU
 1820,Reduzido,41.02,-7.77,Tarouca,VISEU
-1821,Reduzido,40.52,-8.08,Tondela,VISEU
+1821,Moderado,40.52,-8.08,Tondela,VISEU
 1822,Reduzido,40.85,-7.73,Vila Nova de Paiva,VISEU
 1823,Reduzido,40.6585,-7.912,Viseu,VISEU
 1824,Reduzido,40.7249,-8.1135,Vouzela,VISEU
