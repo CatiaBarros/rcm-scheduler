@@ -35,7 +35,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0301,Reduzido,41.54,-8.61,Amares,BRAGA
 0302,Reduzido,41.6314,-8.3489,Barcelos,BRAGA
 0303,Reduzido,41.5475,-8.4227,Braga,BRAGA
-0304,Reduzido,41.514,-7.9901,Cabeceiras de Basto,BRAGA
+0304,Moderado,41.514,-7.9901,Cabeceiras de Basto,BRAGA
 0305,Reduzido,41.39,-8,Celorico de Basto,BRAGA
 0306,Reduzido,41.5356,-8.7819,Esposende,BRAGA
 0307,Reduzido,41.4472,-8.1732,Fafe,BRAGA
@@ -47,16 +47,16 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0313,Reduzido,41.6545,-8.4348,Vila Verde,BRAGA
 0314,Reduzido,41.38,-8.31,Vizela,BRAGA
 0401,Reduzido,41.3424,-6.9625,Alfândega da Fé,BRAGANÇA
-0402,Reduzido,41.8076,-6.7606,Bragança,BRAGANÇA
+0402,Moderado,41.8076,-6.7606,Bragança,BRAGANÇA
 0403,Reduzido,41.2431,-7.3077,Carrazeda de Ansiães,BRAGANÇA
 0404,Reduzido,41.09,-6.81,Freixo de Espada à Cinta,BRAGANÇA
-0405,Reduzido,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
+0405,Moderado,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
 0406,Reduzido,41.5,-6.27,Miranda do Douro,BRAGANÇA
 0407,Reduzido,41.4823,-7.1812,Mirandela,BRAGANÇA
 0408,Reduzido,41.3421,-6.7115,Mogadouro,BRAGANÇA
 0409,Reduzido,41.1742,-7.0532,Torre de Moncorvo,BRAGANÇA
 0410,Reduzido,41.3083,-7.1519,Vila Flor,BRAGANÇA
-0411,Reduzido,41.59,-6.53,Vimioso,BRAGANÇA
+0411,Moderado,41.59,-6.53,Vimioso,BRAGANÇA
 0412,Reduzido,41.8314,-7.0099,Vinhais,BRAGANÇA
 0501,Reduzido,40.3597,-7.3486,Belmonte,CASTELO BRANCO
 0502,Reduzido,39.8217,-7.4957,Castelo Branco,CASTELO BRANCO
@@ -119,14 +119,14 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0901,Reduzido,40.82,-7.54,Aguiar da Beira,GUARDA
 0902,Reduzido,40.72,-6.91,Almeida,GUARDA
 0903,Reduzido,40.64,-7.39,Celorico da Beira,GUARDA
-0904,Reduzido,40.8943,-6.9629,Figueira de Castelo Rodrigo,GUARDA
+0904,Moderado,40.8943,-6.9629,Figueira de Castelo Rodrigo,GUARDA
 0905,Reduzido,40.6201,-7.5393,Fornos de Algodres,GUARDA
 0906,Reduzido,40.4921,-7.5937,Gouveia,GUARDA
 0907,Reduzido,40.5379,-7.2647,Guarda,GUARDA
 0908,Reduzido,40.4,-7.54,Manteigas,GUARDA
 0909,Reduzido,40.97,-7.26,Mêda,GUARDA
 0910,Reduzido,40.7716,-7.0678,Pinhel,GUARDA
-0911,Reduzido,40.3519,-7.0898,Sabugal,GUARDA
+0911,Moderado,40.3519,-7.0898,Sabugal,GUARDA
 0912,Reduzido,40.4143,-7.71,Seia,GUARDA
 0913,Reduzido,40.78,-7.35,Trancoso,GUARDA
 0914,Reduzido,41.0818,-7.1433,Vila Nova de Foz Côa,GUARDA
