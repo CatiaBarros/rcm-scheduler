@@ -60,11 +60,11 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0412,Moderado,41.8314,-7.0099,Vinhais,BRAGANÇA
 0501,Elevado,40.3597,-7.3486,Belmonte,CASTELO BRANCO
 0502,Moderado,39.8217,-7.4957,Castelo Branco,CASTELO BRANCO
-0503,Moderado,40.2779,-7.4992,Covilhã,CASTELO BRANCO
+0503,Elevado,40.2779,-7.4992,Covilhã,CASTELO BRANCO
 0504,Moderado,40.1378,-7.5011,Fundão,CASTELO BRANCO
 0505,Moderado,39.93,-7.24,Idanha-a-Nova,CASTELO BRANCO
 0506,Moderado,39.92,-7.91,Oleiros,CASTELO BRANCO
-0507,Moderado,40.17,-7.17,Penamacor,CASTELO BRANCO
+0507,Elevado,40.17,-7.17,Penamacor,CASTELO BRANCO
 0508,Moderado,39.7495,-7.9229,Proença-a-Nova,CASTELO BRANCO
 0509,Moderado,39.8007,-8.0979,Sertã,CASTELO BRANCO
 0510,Moderado,39.6753,-8.144,Vila de Rei,CASTELO BRANCO
@@ -103,19 +103,19 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0801,Reduzido,37.0897,-8.2472,Albufeira,FARO
 0802,Reduzido,37.47,-7.48,Alcoutim,FARO
 0803,Moderado,37.3169,-8.8028,Aljezur,FARO
-0804,Reduzido,37.2198,-7.4445,Castro Marim,FARO
+0804,Moderado,37.2198,-7.4445,Castro Marim,FARO
 0805,Reduzido,37.0146,-7.9331,Faro,FARO
 0806,Reduzido,37.1352,-8.455,Lagoa,FARO
 0807,Moderado,37.1039,-8.6765,Lagos,FARO
 0808,Moderado,37.1397,-8.0202,Loulé,FARO
-0809,Moderado,37.32,-8.56,Monchique,FARO
+0809,Elevado,37.32,-8.56,Monchique,FARO
 0810,Reduzido,37.03,-7.84,Olhão,FARO
 0811,Moderado,37.15,-8.52,Portimão,FARO
 0812,Moderado,37.15,-7.89,São Brás de Alportel,FARO
 0813,Moderado,37.19,-8.44,Silves,FARO
 0814,Moderado,37.13,-7.65,Tavira,FARO
 0815,Reduzido,37.0828,-8.9103,Vila do Bispo,FARO
-0816,Reduzido,37.19,-7.42,Vila Real de Santo António,FARO
+0816,Moderado,37.19,-7.42,Vila Real de Santo António,FARO
 0901,Moderado,40.82,-7.54,Aguiar da Beira,GUARDA
 0902,Moderado,40.72,-6.91,Almeida,GUARDA
 0903,Moderado,40.64,-7.39,Celorico da Beira,GUARDA
@@ -126,8 +126,8 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0908,Moderado,40.4,-7.54,Manteigas,GUARDA
 0909,Moderado,40.97,-7.26,Mêda,GUARDA
 0910,Moderado,40.7716,-7.0678,Pinhel,GUARDA
-0911,Moderado,40.3519,-7.0898,Sabugal,GUARDA
-0912,Moderado,40.4143,-7.71,Seia,GUARDA
+0911,Elevado,40.3519,-7.0898,Sabugal,GUARDA
+0912,Elevado,40.4143,-7.71,Seia,GUARDA
 0913,Moderado,40.78,-7.35,Trancoso,GUARDA
 0914,Moderado,41.0818,-7.1433,Vila Nova de Foz Côa,GUARDA
 1001,Reduzido,39.55,-8.97,Alcobaça,LEIRIA
@@ -174,20 +174,20 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1210,Moderado,39.394,-7.3768,Marvão,PORTALEGRE
 1211,Reduzido,39.06,-7.43,Monforte,PORTALEGRE
 1212,Moderado,39.52,-7.65,Nisa,PORTALEGRE
-1213,Moderado,39.25,-8.01,Ponte de Sor,PORTALEGRE
+1213,Reduzido,39.25,-8.01,Ponte de Sor,PORTALEGRE
 1214,Moderado,39.29,-7.42,Portalegre,PORTALEGRE
 1215,Reduzido,38.96,-7.67,Sousel,PORTALEGRE
 1301,Moderado,41.2697,-8.0795,Amarante,PORTO
 1302,Moderado,41.1609,-8.0376,Baião,PORTO
 1303,Reduzido,41.37,-8.19,Felgueiras,PORTO
 1304,Moderado,41.14,-8.5315,Gondomar,PORTO
-1305,Reduzido,41.2763,-8.2833,Lousada,PORTO
+1305,Moderado,41.2763,-8.2833,Lousada,PORTO
 1306,Reduzido,41.2335,-8.6216,Maia,PORTO
-1307,Reduzido,41.19,-8.15,Marco de Canaveses,PORTO
+1307,Moderado,41.19,-8.15,Marco de Canaveses,PORTO
 1308,Reduzido,41.1805,-8.681,Matosinhos,PORTO
 1309,Reduzido,41.28,-8.38,Paços de Ferreira,PORTO
 1310,Moderado,41.21,-8.33,Paredes,PORTO
-1311,Reduzido,41.2089,-8.2798,Penafiel,PORTO
+1311,Moderado,41.2089,-8.2798,Penafiel,PORTO
 1312,Reduzido,41.158,-8.6294,Porto,PORTO
 1313,Reduzido,41.38,-8.76,Póvoa de Varzim,PORTO
 1314,Moderado,41.3412,-8.4776,Santo Tirso,PORTO
@@ -231,7 +231,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1513,Reduzido,37.956,-8.8643,Sines,SETÚBAL
 1601,Moderado,41.8458,-8.4177,Arcos de Valdevez,VIANA DO CASTELO
 1602,Moderado,41.8718,-8.8533,Caminha,VIANA DO CASTELO
-1603,Moderado,42.1127,-8.2611,Melgaço,VIANA DO CASTELO
+1603,Reduzido,42.1127,-8.2611,Melgaço,VIANA DO CASTELO
 1604,Moderado,42.0709,-8.4923,Monção,VIANA DO CASTELO
 1605,Moderado,41.9119,-8.5574,Paredes de Coura,VIANA DO CASTELO
 1606,Moderado,41.8044,-8.415,Ponte da Barca,VIANA DO CASTELO
@@ -254,10 +254,10 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1713,Moderado,41.4986,-7.6441,Vila Pouca de Aguiar,VILA REAL
 1714,Moderado,41.3053,-7.744,Vila Real,VILA REAL
 1801,Moderado,41.1071,-7.6908,Armamar,VISEU
-1802,Moderado,40.44,-8,Carregal do Sal,VISEU
-1803,Reduzido,40.9,-7.94,Castro Daire,VISEU
+1802,Elevado,40.44,-8,Carregal do Sal,VISEU
+1803,Moderado,40.9,-7.94,Castro Daire,VISEU
 1804,Moderado,41.0749,-8.0958,Cinfães,VISEU
-1805,Reduzido,41.1,-7.81,Lamego,VISEU
+1805,Moderado,41.1,-7.81,Lamego,VISEU
 1806,Moderado,40.61,-7.76,Mangualde,VISEU
 1807,Moderado,40.9818,-7.6154,Moimenta da Beira,VISEU
 1808,Moderado,40.4,-8.23,Mortágua,VISEU
@@ -265,8 +265,8 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1810,Moderado,40.7301,-8.1738,Oliveira de Frades,VISEU
 1811,Reduzido,40.68,-7.7,Penalva do Castelo,VISEU
 1812,Moderado,40.99,-7.4,Penedono,VISEU
-1813,Reduzido,41.1058,-7.9627,Resende,VISEU
-1814,Moderado,40.4,-8.13,Santa Comba Dão,VISEU
+1813,Moderado,41.1058,-7.9627,Resende,VISEU
+1814,Elevado,40.4,-8.13,Santa Comba Dão,VISEU
 1815,Moderado,41.15,-7.41,São João da Pesqueira,VISEU
 1816,Moderado,40.76,-8.0642,São Pedro do Sul,VISEU
 1817,Moderado,40.75,-7.74,Sátão,VISEU
