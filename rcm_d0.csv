@@ -49,12 +49,12 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0401,Reduzido,41.3424,-6.9625,Alfândega da Fé,BRAGANÇA
 0402,Reduzido,41.8076,-6.7606,Bragança,BRAGANÇA
 0403,Reduzido,41.2431,-7.3077,Carrazeda de Ansiães,BRAGANÇA
-0404,Moderado,41.09,-6.81,Freixo de Espada à Cinta,BRAGANÇA
+0404,Reduzido,41.09,-6.81,Freixo de Espada à Cinta,BRAGANÇA
 0405,Reduzido,41.5373,-6.9635,Macedo de Cavaleiros,BRAGANÇA
-0406,Moderado,41.5,-6.27,Miranda do Douro,BRAGANÇA
+0406,Reduzido,41.5,-6.27,Miranda do Douro,BRAGANÇA
 0407,Reduzido,41.4823,-7.1812,Mirandela,BRAGANÇA
-0408,Moderado,41.3421,-6.7115,Mogadouro,BRAGANÇA
-0409,Moderado,41.1742,-7.0532,Torre de Moncorvo,BRAGANÇA
+0408,Reduzido,41.3421,-6.7115,Mogadouro,BRAGANÇA
+0409,Reduzido,41.1742,-7.0532,Torre de Moncorvo,BRAGANÇA
 0410,Reduzido,41.3083,-7.1519,Vila Flor,BRAGANÇA
 0411,Reduzido,41.59,-6.53,Vimioso,BRAGANÇA
 0412,Reduzido,41.8314,-7.0099,Vinhais,BRAGANÇA
@@ -259,7 +259,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1804,Reduzido,41.0749,-8.0958,Cinfães,VISEU
 1805,Reduzido,41.1,-7.81,Lamego,VISEU
 1806,Reduzido,40.61,-7.76,Mangualde,VISEU
-1807,Moderado,40.9818,-7.6154,Moimenta da Beira,VISEU
+1807,Reduzido,40.9818,-7.6154,Moimenta da Beira,VISEU
 1808,Reduzido,40.4,-8.23,Mortágua,VISEU
 1809,Reduzido,40.5321,-7.8522,Nelas,VISEU
 1810,Reduzido,40.7301,-8.1738,Oliveira de Frades,VISEU
