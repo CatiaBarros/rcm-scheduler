@@ -26,11 +26,11 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0206,Elevado,38.07,-7.93,Castro Verde,BEJA
 0207,Elevado,38.17,-7.89,Cuba,BEJA
 0208,Elevado,38.06,-8.11,Ferreira do Alentejo,BEJA
-0209,Elevado,37.6428,-7.6605,Mértola,BEJA
+0209,Máximo,37.6428,-7.6605,Mértola,BEJA
 0210,Elevado,38.14,-7.45,Moura,BEJA
 0211,Elevado,37.5978,-8.639,Odemira,BEJA
 0212,Elevado,37.65,-8.22,Ourique,BEJA
-0213,Elevado,37.95,-7.6,Serpa,BEJA
+0213,Máximo,37.95,-7.6,Serpa,BEJA
 0214,Elevado,38.21,-7.8,Vidigueira,BEJA
 0301,Moderado,41.54,-8.61,Amares,BRAGA
 0302,Reduzido,41.6314,-8.3489,Barcelos,BRAGA
@@ -168,7 +168,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1204,Elevado,39.01,-7.07,Campo Maior,PORTALEGRE
 1205,Muito Elevado,39.4151,-7.4552,Castelo de Vide,PORTALEGRE
 1206,Elevado,39.29,-7.64,Crato,PORTALEGRE
-1207,Elevado,38.8788,-7.1662,Elvas,PORTALEGRE
+1207,Máximo,38.8788,-7.1662,Elvas,PORTALEGRE
 1208,Moderado,39.06,-7.65,Fronteira,PORTALEGRE
 1209,Muito Elevado,39.4651,-7.936,Gavião,PORTALEGRE
 1210,Muito Elevado,39.394,-7.3768,Marvão,PORTALEGRE
