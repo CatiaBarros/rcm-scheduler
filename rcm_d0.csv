@@ -42,7 +42,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0308,Elevado,41.4434,-8.2938,Guimarães,BRAGA
 0309,Elevado,41.5762,-8.2708,Póvoa de Lanhoso,BRAGA
 0310,Elevado,41.72,-8.31,Terras de Bouro,BRAGA
-0311,Elevado,41.6355,-8.1416,Vieira do Minho,BRAGA
+0311,Muito Elevado,41.6355,-8.1416,Vieira do Minho,BRAGA
 0312,Moderado,41.4087,-8.5205,Vila Nova de Famalicão,BRAGA
 0313,Elevado,41.6545,-8.4348,Vila Verde,BRAGA
 0314,Moderado,41.38,-8.31,Vizela,BRAGA
@@ -99,7 +99,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0711,Elevado,38.4229,-7.5397,Reguengos de Monsaraz,ÉVORA
 0712,Moderado,38.68,-8.46,Vendas Novas,ÉVORA
 0713,Elevado,38.3375,-8.0019,Viana do Alentejo,ÉVORA
-0714,Muito Elevado,38.7747,-7.4204,Vila Viçosa,ÉVORA
+0714,Elevado,38.7747,-7.4204,Vila Viçosa,ÉVORA
 0801,Moderado,37.0897,-8.2472,Albufeira,FARO
 0802,Elevado,37.47,-7.48,Alcoutim,FARO
 0803,Muito Elevado,37.3169,-8.8028,Aljezur,FARO
@@ -145,7 +145,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1013,Muito Elevado,39.92,-8.15,Pedrógão Grande,LEIRIA
 1014,Reduzido,39.3617,-9.3893,Peniche,LEIRIA
 1015,Muito Elevado,39.92,-8.63,Pombal,LEIRIA
-1016,Elevado,39.6001,-8.8169,Porto de Mós,LEIRIA
+1016,Muito Elevado,39.6001,-8.8169,Porto de Mós,LEIRIA
 1101,Moderado,39.0537,-9.0095,Alenquer,LISBOA
 1102,Elevado,38.9834,-9.0777,Arruda dos Vinhos,LISBOA
 1103,Moderado,39.0697,-8.8695,Azambuja,LISBOA
@@ -163,12 +163,12 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1115,Moderado,38.7566,-9.2267,Amadora,LISBOA
 1116,Moderado,38.79,-9.19,Odivelas,LISBOA
 1201,Elevado,39.2,-7.66,Alter do Chão,PORTALEGRE
-1202,Muito Elevado,39.13,-7.29,Arronches,PORTALEGRE
+1202,Elevado,39.13,-7.29,Arronches,PORTALEGRE
 1203,Elevado,39.11,-7.88,Avis,PORTALEGRE
-1204,Muito Elevado,39.01,-7.07,Campo Maior,PORTALEGRE
+1204,Elevado,39.01,-7.07,Campo Maior,PORTALEGRE
 1205,Máximo,39.4151,-7.4552,Castelo de Vide,PORTALEGRE
 1206,Muito Elevado,39.29,-7.64,Crato,PORTALEGRE
-1207,Muito Elevado,38.8788,-7.1662,Elvas,PORTALEGRE
+1207,Elevado,38.8788,-7.1662,Elvas,PORTALEGRE
 1208,Elevado,39.06,-7.65,Fronteira,PORTALEGRE
 1209,Máximo,39.4651,-7.936,Gavião,PORTALEGRE
 1210,Máximo,39.394,-7.3768,Marvão,PORTALEGRE
