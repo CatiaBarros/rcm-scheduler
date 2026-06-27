@@ -112,7 +112,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0810,Moderado,37.03,-7.84,Olhão,FARO
 0811,Moderado,37.15,-8.52,Portimão,FARO
 0812,Muito Elevado,37.15,-7.89,São Brás de Alportel,FARO
-0813,Moderado,37.19,-8.44,Silves,FARO
+0813,Elevado,37.19,-8.44,Silves,FARO
 0814,Muito Elevado,37.13,-7.65,Tavira,FARO
 0815,Elevado,37.0828,-8.9103,Vila do Bispo,FARO
 0816,Elevado,37.19,-7.42,Vila Real de Santo António,FARO
@@ -120,7 +120,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0902,Muito Elevado,40.72,-6.91,Almeida,GUARDA
 0903,Elevado,40.64,-7.39,Celorico da Beira,GUARDA
 0904,Muito Elevado,40.8943,-6.9629,Figueira de Castelo Rodrigo,GUARDA
-0905,Moderado,40.6201,-7.5393,Fornos de Algodres,GUARDA
+0905,Elevado,40.6201,-7.5393,Fornos de Algodres,GUARDA
 0906,Moderado,40.4921,-7.5937,Gouveia,GUARDA
 0907,Muito Elevado,40.5379,-7.2647,Guarda,GUARDA
 0908,Elevado,40.4,-7.54,Manteigas,GUARDA
@@ -204,7 +204,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1407,Muito Elevado,39.36,-8.48,Chamusca,SANTARÉM
 1408,Muito Elevado,39.4774,-8.3379,Constância,SANTARÉM
 1409,Moderado,38.9608,-8.5274,Coruche,SANTARÉM
-1410,Reduzido,39.47,-8.47,Entroncamento,SANTARÉM
+1410,Moderado,39.47,-8.47,Entroncamento,SANTARÉM
 1411,Elevado,39.7,-8.28,Ferreira do Zêzere,SANTARÉM
 1412,Moderado,39.4052,-8.4847,Golegã,SANTARÉM
 1413,Muito Elevado,39.5573,-7.9954,Mação,SANTARÉM
