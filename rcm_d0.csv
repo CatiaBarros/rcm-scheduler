@@ -144,7 +144,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1012,Reduzido,39.36,-9.16,Óbidos,LEIRIA
 1013,Reduzido,39.92,-8.15,Pedrógão Grande,LEIRIA
 1014,Reduzido,39.3617,-9.3893,Peniche,LEIRIA
-1015,Reduzido,39.92,-8.63,Pombal,LEIRIA
+1015,Moderado,39.92,-8.63,Pombal,LEIRIA
 1016,Moderado,39.6001,-8.8169,Porto de Mós,LEIRIA
 1101,Moderado,39.0537,-9.0095,Alenquer,LISBOA
 1102,Moderado,38.9834,-9.0777,Arruda dos Vinhos,LISBOA
@@ -163,7 +163,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1115,Reduzido,38.7566,-9.2267,Amadora,LISBOA
 1116,Moderado,38.79,-9.19,Odivelas,LISBOA
 1201,Moderado,39.2,-7.66,Alter do Chão,PORTALEGRE
-1202,Reduzido,39.13,-7.29,Arronches,PORTALEGRE
+1202,Moderado,39.13,-7.29,Arronches,PORTALEGRE
 1203,Moderado,39.11,-7.88,Avis,PORTALEGRE
 1204,Reduzido,39.01,-7.07,Campo Maior,PORTALEGRE
 1205,Moderado,39.4151,-7.4552,Castelo de Vide,PORTALEGRE
