@@ -205,7 +205,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1408,Muito Elevado,39.4774,-8.3379,Constância,SANTARÉM
 1409,Moderado,38.9608,-8.5274,Coruche,SANTARÉM
 1410,Moderado,39.47,-8.47,Entroncamento,SANTARÉM
-1411,Muito Elevado,39.7,-8.28,Ferreira do Zêzere,SANTARÉM
+1411,Elevado,39.7,-8.28,Ferreira do Zêzere,SANTARÉM
 1412,Moderado,39.4052,-8.4847,Golegã,SANTARÉM
 1413,Muito Elevado,39.5573,-7.9954,Mação,SANTARÉM
 1414,Elevado,39.3393,-8.9359,Rio Maior,SANTARÉM
@@ -260,7 +260,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1805,Moderado,41.1,-7.81,Lamego,VISEU
 1806,Moderado,40.61,-7.76,Mangualde,VISEU
 1807,Moderado,40.9818,-7.6154,Moimenta da Beira,VISEU
-1808,Elevado,40.4,-8.23,Mortágua,VISEU
+1808,Moderado,40.4,-8.23,Mortágua,VISEU
 1809,Moderado,40.5321,-7.8522,Nelas,VISEU
 1810,Moderado,40.7301,-8.1738,Oliveira de Frades,VISEU
 1811,Moderado,40.68,-7.7,Penalva do Castelo,VISEU
