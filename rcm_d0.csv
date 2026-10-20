@@ -1,6 +1,5 @@
 DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 0101,Elevado,40.58,-8.44,Águeda,AVEIRO
-0102,Moderado,40.6909,-8.4784,Albergaria-a-Velha,AVEIRO
 0103,Elevado,40.44,-8.44,Anadia,AVEIRO
 0104,Elevado,40.93,-8.26,Arouca,AVEIRO
 0105,Reduzido,40.6413,-8.6535,Aveiro,AVEIRO
@@ -273,7 +272,7 @@ DICO,rcm,latitude,longitude,CONCELHO,DISTRITO
 1818,Moderado,40.8982,-7.4916,Sernancelhe,VISEU
 1819,Elevado,41.1154,-7.5674,Tabuaço,VISEU
 1820,Moderado,41.02,-7.77,Tarouca,VISEU
-1821,Moderado,40.52,-8.08,Tondela,VISEU
+1821,Elevado,40.52,-8.08,Tondela,VISEU
 1822,Moderado,40.85,-7.73,Vila Nova de Paiva,VISEU
 1823,Elevado,40.6585,-7.912,Viseu,VISEU
 1824,Elevado,40.7249,-8.1135,Vouzela,VISEU
